@@ -1,0 +1,449 @@
+assembly,out_degree,in_degree,net_flow,program,name
+C0001,1482.0,210.0,1272.0,unclassified,Human 60S Cytoplasmic Ribosomal Subunit
+C0002,634.0,931.0,-297.0,unclassified,Ribonucleoprotein Assembly Involved in mRNA Processing and Translation Regulation
+C0003,852.0,915.0,-63.0,unclassified,Human U2 snRNP-associated spliceosomal complex
+C0004,571.0,514.0,57.0,unclassified,BRG1-SIN3A-HDAC Chromatin Remodeling and Deacetylase Complex
+C0005,502.0,496.0,6.0,unclassified,NuRD (Nucleosome Remodeling and Deacetylase) complex
+C0006,352.0,373.0,-21.0,unclassified,Multifunctional Ribosome-Associated and Nuclear Regulatory Assembly
+C0007,1817.0,51.0,1766.0,unclassified,26S Proteasome
+C0008,1109.0,539.0,570.0,unclassified,"40S ribosomal subunit, cytoplasmic"
+C0009,88.0,134.0,-46.0,IH,Mitochondrial Metabolic and Protein Synthesis Assembly
+C0010,94.0,148.0,-54.0,EL,Mitochondrial Fatty Acid Oxidation and Amino Acid Metabolism Supercomplex
+C0011,338.0,317.0,21.0,IH,Caveolae Coat Complex (CAVIN1-CAVIN2-CAVIN3)
+C0012,225.0,276.0,-51.0,unclassified,RUVBL1-containing Ribonucleoprotein Assembly
+C0013,198.0,242.0,-44.0,unclassified,Caveolae Coat Complex with Ribosome Biogenesis and RNA Processing Factors
+C0014,175.0,220.0,-45.0,unclassified,Caveolae-associated Cavin Complex
+C0015,240.0,277.0,-37.0,unclassified,Human Box H/ACA Ribonucleoprotein Complex
+C0016,193.0,296.0,-103.0,unclassified,Nucleolar RUVBL1-DKC1 Ribosome Biogenesis Complex
+C0017,272.0,385.0,-113.0,unclassified,Ubiquilin-Proteasome Assembly
+C0018,317.0,399.0,-82.0,IH,Nonmuscle Myosin II Complex with Associated Metabolic and Regulatory Subunits
+C0019,196.0,113.0,83.0,unclassified,Mitochondrial Amino Acid and Energy Metabolism Assembly
+C0020,439.0,326.0,113.0,IH,Human Aminoacyl-tRNA Synthetase-Associated Assembly
+C0021,259.0,26.0,233.0,unclassified,cBAF (canonical BAF) chromatin remodeling complex
+C0022,379.0,551.0,-172.0,unclassified,DNA-PK-Ku-RPA-PARP1 DNA Damage Response Complex
+C0023,133.0,204.0,-71.0,unclassified,Heterogeneous Nuclear Ribonucleoprotein (hnRNP)-Associated RNA Processing Complex
+C0024,290.0,638.0,-348.0,EL,Nucleophosmin-associated ribonucleoprotein assembly
+C0025,301.0,585.0,-284.0,unclassified,14-3-3 Scaffolded Multi-Protein Regulatory Complex
+C0026,422.0,581.0,-159.0,unclassified,DNA Double-Strand Break Repair Complex (NHEJ and HR components)
+C0027,357.0,626.0,-269.0,unclassified,14-3-3 Scaffolded MAP2K1/2 Signaling Assembly
+C0028,205.0,261.0,-56.0,EL,Nucleophosmin-associated ribonucleoprotein complex
+C0029,345.0,930.0,-585.0,unclassified,DNA-PK-Ku-PARP1-Nucleophosmin Chromatin Repair Complex
+C0030,273.0,802.0,-529.0,ME,HSP90 Chaperone and 14-3-3 Scaffold Protein Assembly
+C0031,459.0,354.0,105.0,unclassified,COP9 Signalosome Complex
+C0032,128.0,185.0,-57.0,ME,Human Telomerase Holoenzyme Assembly
+C0033,339.0,714.0,-375.0,unclassified,Pyruvate Dehydrogenase Complex with 14-3-3 and HSP90 Chaperones
+C0034,313.0,1011.0,-698.0,ME,DNA-PK-Ku-eIF2-NF90-NF45 multifunctional complex
+C0035,269.0,228.0,41.0,ME,Human spliceosome B complex
+C0036,67.0,111.0,-44.0,ME,RNA Processing and Stress Response Assembly
+C0037,336.0,724.0,-388.0,unclassified,Pyruvate Dehydrogenase HSP90 Chaperone Assembly
+C0038,40.0,51.0,-11.0,unclassified,Mitochondrial RNA Processing and Quality Control Assembly
+C0039,85.0,121.0,-36.0,unclassified,Mitochondrial Protein Quality Control and RNA Processing Assembly
+C0040,159.0,229.0,-70.0,ME,TRIM28-NMI Transcriptional Corepressor Complex
+C0041,348.0,239.0,109.0,unclassified,Aminoacyl-tRNA Synthetase-Associated Signaling Assembly
+C0042,59.0,12.0,47.0,unclassified,Mitochondrial RNA Processing and Protein Import Assembly
+C0043,123.0,144.0,-21.0,EL,Nucleolar Ribosome Biogenesis and RNA Processing Assembly
+C0044,146.0,115.0,31.0,IH,CAPZalpha-CAPZbeta Actin Capping Complex
+C0045,212.0,251.0,-39.0,unclassified,Exon Junction Complex with Nonsense-Mediated Decay Factors
+C0046,26.0,46.0,-20.0,unclassified,Matrin3-Associated Nuclear Ribonucleoprotein Complex
+C0047,27.0,47.0,-20.0,unclassified,Mitochondrial Metabolic and Proteostasis Assembly
+C0048,22.0,30.0,-8.0,IH,eukaryotic translation initiation factor 3 (eIF3) complex
+C0049,327.0,312.0,15.0,unclassified,Human mRNA Surveillance and Decay Complex
+C0050,153.0,54.0,99.0,unclassified,Septin Filament Assembly with Associated Protein Homeostasis Factors
+C0051,39.0,330.0,-291.0,EL,RNA polymerase II pre-initiation complex
+C0052,166.0,254.0,-88.0,unclassified,Cleavage Factor IIAm (CF IIAm) complex
+C0053,121.0,45.0,76.0,EL,Septin Filament Assembly with Ferritin and Protein Folding Enzymes
+C0054,12.0,5.0,7.0,unclassified,TCP1-Ring Complex with Metabolic and Apoptotic Subunits
+C0055,46.0,159.0,-113.0,unclassified,SNF2h-cohesin-NuRD complex
+C0056,42.0,14.0,28.0,unclassified,Retromer-SNX Sorting Complex
+C0057,152.0,352.0,-200.0,unclassified,RUVBL1/2-Associated Histone Modification and Spliceosome Regulatory Complex
+C0058,51.0,36.0,15.0,unclassified,Human Multisynthetase Complex
+C0059,152.0,329.0,-177.0,ME,p400/Tip60-associated chromatin remodeling complex
+C0060,288.0,105.0,183.0,unclassified,Human pre-mRNA spliceosome B-WICH hybrid complex
+C0061,430.0,73.0,357.0,unclassified,Human RNA Exosome Complex
+C0062,35.0,17.0,18.0,ME,ANP32-Nucleosome Assembly and Regulation Complex
+C0063,31.0,36.0,-5.0,unclassified,Metabolic and Protein Processing Assembly Involving RACK1
+C0064,4.0,0.0,4.0,ME,39S mitochondrial large ribosomal subunit
+C0065,299.0,52.0,247.0,ME,CAPZ-PP1-IQGAP1 Proteasome Regulatory Assembly
+C0066,288.0,105.0,183.0,ME,Spliceosome B complex
+C0067,174.0,89.0,85.0,unclassified,Human pre-mRNA splicing Bact-like complex
+C0068,115.0,46.0,69.0,unclassified,Mitochondrial Processing and Antioxidant Protein Assembly
+C0069,383.0,171.0,212.0,IH,COP9 signalosome complex
+C0070,178.0,200.0,-22.0,unclassified,Mitochondrial protein quality control and cell adhesion assembly
+C0071,162.0,481.0,-319.0,ME,NuA4/Tip60 histone acetyltransferase complex
+C0072,681.0,754.0,-73.0,unclassified,E-cadherin-catenin adhesion complex
+C0073,8.0,15.0,-7.0,unclassified,ANP32-SET Histone Chaperone Assembly
+C0074,217.0,67.0,150.0,ME,EIF3-G3BP2-40S Ribosomal Subunit Assembly
+C0075,199.0,156.0,43.0,ME,Nonsense-Mediated mRNA Decay (NMD) Complex
+C0076,315.0,199.0,116.0,unclassified,Protein Kinase A Regulatory Complex with GSK3B and PPP2R1A
+C0077,98.0,31.0,67.0,unclassified,Exon Junction Complex (EJC) with Nonsense-Mediated Decay Factors
+C0078,156.0,204.0,-48.0,unclassified,B-WICH chromatin remodeling complex
+C0079,0.0,1.0,-1.0,EL,Mitochondrial 28S Small Ribosomal Subunit
+C0080,54.0,330.0,-276.0,unclassified,SURF complex
+C0081,170.0,92.0,78.0,ME,Mitochondrial Protein Processing and Metabolic Assembly
+C0082,49.0,8.0,41.0,unclassified,Septin Filament Assembly with Associated Regulatory Proteins
+C0083,47.0,621.0,-574.0,IH,Importin alpha/beta nuclear transport complex
+C0084,178.0,193.0,-15.0,EL,WRAD-HCF1-OGT Epigenetic Regulatory Complex
+C0085,33.0,48.0,-15.0,unclassified,Mitochondrial Protein Quality Control and Metabolic Regulation Assembly
+C0086,12.0,15.0,-3.0,unclassified,ANP32-SET-NAP1L Histone Chaperone Assembly
+C0087,29.0,347.0,-318.0,unclassified,Eukaryotic Translation Initiation and Mitochondrial Biogenesis Assembly
+C0088,15.0,2.0,13.0,IH,hASC-1 transcriptional coactivator complex
+C0089,63.0,177.0,-114.0,unclassified,Annexin A2-Peroxiredoxin Antioxidant Assembly
+C0090,1367.0,23.0,1344.0,unclassified,Nup107-160 subcomplex
+C0091,216.0,37.0,179.0,unclassified,WASH-CAPZ-Clathrin Actin Regulatory Complex
+C0092,6.0,5.0,1.0,ME,Chaperonin Containing TCP1 (CCT) Complex
+C0093,31.0,14.0,17.0,unclassified,Rab7A-Associated SNX-TBC1D5 Retromer Assembly
+C0094,19.0,93.0,-74.0,unclassified,PML-associated chromatin regulatory complex
+C0095,74.0,55.0,19.0,unclassified,Multifunctional metabolic and cytoskeletal regulatory assembly
+C0096,52.0,101.0,-49.0,ME,Mitochondrial Metabolic and Stress Response Assembly
+C0097,66.0,429.0,-363.0,unclassified,CCC complex
+C0098,34.0,50.0,-16.0,unclassified,ESCRT-II complex
+C0099,56.0,25.0,31.0,IH,Septin-Associated Cytoskeletal and Membrane Remodeling Complex
+C0100,33.0,35.0,-2.0,IH,Pre-mRNA Spliceosomal Complex Involving PRPF3 and NSRP1
+C0101,34.0,604.0,-570.0,ME,Cullin-RING E3 ubiquitin ligase complexes with CAND1 regulation
+C0102,113.0,125.0,-12.0,ME,PPP1C-RHOA-MLCP Regulatory Complex
+C0103,8.0,12.0,-4.0,ME,ANP32-NAP1-SET Histone Chaperone Assembly
+C0104,1.0,0.0,1.0,unclassified,VPS25-VPS36 Endosomal Sorting Assembly
+C0105,59.0,47.0,12.0,IH,Integrin beta-1 (ITGB1)-associated signaling complex
+C0106,40.0,20.0,20.0,EL,Multifunctional Cytoskeletal and Mitochondrial Protein Assembly
+C0107,193.0,129.0,64.0,unclassified,PPP2A Holoenzyme Assembly with PIN1 and Associated Regulatory Subunits
+C0108,302.0,230.0,72.0,ME,PP1c-RhoA-PRKA regulatory complex
+C0109,1054.0,14.0,1040.0,unclassified,Nup107-160 Core Scaffold Complex with EIPR1 and NIFK
+C0110,103.0,46.0,57.0,ME,Lysosomal and Mitochondrial Metabolic Enzyme Assembly
+C0111,129.0,408.0,-279.0,ME,Cap-Binding Complex (CBC) with Translation Initiation and Nonsense-Mediated Decay Factors
+C0112,62.0,471.0,-409.0,unclassified,Importin alpha subunits and RNA polymerase I assembly with vimentin
+C0113,139.0,34.0,105.0,ME,PeBoW-Proteasome Hybrid Assembly
+C0114,14.0,17.0,-3.0,unclassified,Laminin-Associated Cytoskeletal and Metabolic Assembly
+C0115,38.0,666.0,-628.0,EL,Cullin-RING Ligase Scaffold Assembly with CAND1
+C0116,172.0,104.0,68.0,unclassified,CDC42-associated oxidative stress response complex
+C0117,164.0,22.0,142.0,IH,Human TREX (Transcription-Export) Complex
+C0118,112.0,26.0,86.0,unclassified,Kinesin-1 Motor Complex with Associated Chaperones and Spliceosomal Component
+C0119,41.0,25.0,16.0,unclassified,GNB1-associated multifunctional signaling assembly
+C0120,11.0,7.0,4.0,unclassified,Retromer-SNX Assembly
+C0121,168.0,79.0,89.0,IH,CDC42-associated redox-regulatory and cytoskeletal complex
+C0122,332.0,214.0,118.0,unclassified,"Metabolic-Enzyme Scaffold Complex involving GSK3B, PKM, FASN, and EZR"
+C0123,71.0,42.0,29.0,unclassified,LSm2-8 Complex
+C0124,31.0,7.0,24.0,ME,Mitochondrial Metabolic and Redox Regulation Assembly
+C0125,191.0,361.0,-170.0,ME,ABI1-CYFIP1-ROCK2 Actin Modulatory Assembly
+C0126,187.0,33.0,154.0,unclassified,TFIIH transcription factor complex
+C0127,188.0,33.0,155.0,unclassified,CDK-Activating Kinase (CAK)-Associated TFIIH Subcomplex
+C0128,103.0,24.0,79.0,unclassified,Mitochondrial Metabolic and Antioxidant Protein Assembly
+C0129,405.0,188.0,217.0,unclassified,Casein Kinase II-HMGB1-EWSR1 Ubiquitin Regulatory Complex
+C0130,185.0,362.0,-177.0,unclassified,ABI1-ROCK2 Actin Remodeling Complex
+C0131,197.0,363.0,-166.0,unclassified,WAVE-2 Actin Regulatory Complex
+C0132,7.0,8.0,-1.0,ME,Mitochondrial metabolic and RNA processing assembly
+C0133,422.0,126.0,296.0,IH,Casein Kinase II-HMGB1 Regulatory Complex
+C0134,41.0,25.0,16.0,ME,PRPF3-containing spliceosomal subcomplex
+C0135,36.0,89.0,-53.0,EL,Signal Recognition Particle (SRP) Subcomplex with RNA Processing and Stress Granule Components
+C0136,20.0,129.0,-109.0,EL,Pyruvate Dehydrogenase Complex (PDC)
+C0137,154.0,131.0,23.0,unclassified,PPP1C-RHOA-MLCP regulatory complex
+C0138,4.0,2.0,2.0,EL,Huntingtin-associated multi-protein complex with mitochondrial and nucleic acid regulation components
+C0139,0.0,83.0,-83.0,unclassified,Exocyst complex
+C0140,935.0,44.0,891.0,unclassified,Nuclear Basket-Associated Nucleoporin Assembly
+C0141,7.0,113.0,-106.0,unclassified,H/ACA ribonucleoprotein complex
+C0142,110.0,242.0,-132.0,unclassified,WAVE Regulatory Complex (WRC)
+C0143,177.0,124.0,53.0,ME,Plasma Protease Inhibitor and Glycolytic Enzyme Assembly
+C0144,843.0,137.0,706.0,IH,Nuclear Pore Complex
+C0145,24.0,263.0,-239.0,unclassified,Arp2/3 complex
+C0146,36.0,89.0,-53.0,unclassified,Signal Recognition Particle (SRP) Complex
+C0147,37.0,61.0,-24.0,unclassified,UHRF1-associated chromatin remodeling complex
+C0148,2.0,77.0,-75.0,ME,Annexin A2-S100A10-PFN1-Plectin-AHNAK-GPX1-XRCC4 multifunctional cytoskeletal and DNA repair assembly
+C0149,345.0,310.0,35.0,unclassified,AKT1-GOPC-DYNC1I2-Calpain-Mediated Signaling Assembly
+C0150,5.0,0.0,5.0,ME,MCM2-7 Helicase Complex
+C0151,5.0,4.0,1.0,unclassified,Metabolic and Lysosomal Enzyme Assembly Complex
+C0152,88.0,25.0,63.0,unclassified,Replication Protein A (RPA) Complex with DNA Polymerase Delta Subunit
+C0153,10.0,0.0,10.0,EL,Mitochondrial Ribosome Biogenesis Factor Assembly
+C0154,14.0,17.0,-3.0,unclassified,ER-associated Protein Folding and Trafficking Assembly
+C0155,10.0,0.0,10.0,unclassified,Mitochondrial Large Ribosomal Subunit Assembly Complex
+C0156,124.0,88.0,36.0,unclassified,MRN-TERF2 DNA Damage Response Complex
+C0157,172.0,290.0,-118.0,unclassified,"Nuclear Export Complex involving NCBP2, RAN, and XPO1"
+C0158,293.0,255.0,38.0,unclassified,PP2A Holoenzyme Complex with PIN1 and PRDX4
+C0159,11.0,45.0,-34.0,unclassified,VPS25-WDR4 Exocyst-Associated Assembly
+C0160,112.0,129.0,-17.0,IH,Set1B-PP1-WDR82 Regulatory Complex
+C0161,91.0,130.0,-39.0,EL,PP2A Regulatory Complex with NEDD4 and BCL2L13
+C0162,44.0,24.0,20.0,unclassified,COP9 Signalosome Subcomplex with SRP and Chromatin-associated Proteins
+C0163,6.0,58.0,-52.0,unclassified,Mitochondrial Redox and Metabolic Regulation Assembly
+C0164,5.0,17.0,-12.0,unclassified,Multifunctional Metabolic and Cytoskeletal Regulatory Assembly
+C0165,77.0,69.0,8.0,ME,PRMT5-ASH2L-RBBP5 Tubulin-associated Assembly
+C0166,61.0,46.0,15.0,unclassified,IRAK4-associated innate immune signaling complex
+C0167,61.0,46.0,15.0,ME,IRAK4-RNF123 Multifunctional Signaling Assembly
+C0168,8.0,64.0,-56.0,unclassified,Mitochondrial Redox and Cytoskeletal Regulation Complex
+C0169,926.0,40.0,886.0,ME,Nuclear Pore Basket-Scaffold Assembly
+C0170,210.0,174.0,36.0,ME,Cleavage and Polyadenylation Specificity Factor (CPSF)-Cleavage Stimulation Factor (CstF) Complex
+C0171,2.0,12.0,-10.0,EL,ANP32-SET-MRTO4 Regulatory Assembly
+C0172,8.0,70.0,-62.0,IH,Annexin A4-Cofilin-1-Mitochondrial Stress Response Assembly
+C0173,211.0,214.0,-3.0,unclassified,Cleavage and Polyadenylation Specificity Factor (CPSF) Complex
+C0174,34.0,50.0,-16.0,unclassified,Conserved Oligomeric Golgi (COG) Complex Subunit Assembly
+C0175,17.0,28.0,-11.0,unclassified,AP-1 Adaptor Protein Complex
+C0177,7.0,8.0,-1.0,EL,Mitochondrial Nucleotide Metabolism and Dynamics Assembly
+C0178,36.0,45.0,-9.0,unclassified,Mitochondrial multifunctional enzyme complex
+C0179,2.0,4.0,-2.0,unclassified,DNA Ligase III-Associated Multi-Functional Complex
+C0180,0.0,12.0,-12.0,unclassified,RNA polymerase III complex
+C0181,0.0,22.0,-22.0,unclassified,Coatomer complex (COPI complex)
+C0182,57.0,55.0,2.0,IH,Ezrin-associated metabolic and signaling assembly
+C0183,14.0,13.0,1.0,unclassified,BCKDHB-associated chromatin and nuclear transport assembly
+C0184,12.0,35.0,-23.0,unclassified,SEC23A-SEC24 Coat Protein Complex II Subunit Assembly
+C0185,169.0,97.0,72.0,ME,APP-Integrin-RIPK1 Signaling Complex
+C0186,12.0,15.0,-3.0,unclassified,Integrin beta-4 (ITGB4)-RACK1 adhesion and lysosomal enzyme complex
+C0187,32.0,61.0,-29.0,ME,Dynactin Complex Subunit 5-Associated Assembly
+C0188,7.0,12.0,-5.0,ME,SORBS3-DLG5 Scaffold Complex
+C0189,11.0,12.0,-1.0,unclassified,Heterogeneous Nuclear Ribonucleoprotein (hnRNP) RNP Assembly with Mitochondrial PPIF
+C0190,5.0,85.0,-80.0,EL,PML-associated epigenetic regulatory complex
+C0191,29.0,53.0,-24.0,unclassified,Propionyl-CoA Carboxylase Holoenzyme with Regulatory Subunits
+C0192,27.0,22.0,5.0,unclassified,SEC23-SEC24 Coat Protein Complex II Subassembly
+C0193,6.0,115.0,-109.0,unclassified,UFMylation-associated translation initiation complex
+C0194,0.0,38.0,-38.0,IH,Mitochondrial Metabolic Enzyme Assembly
+C0195,36.0,470.0,-434.0,unclassified,Eukaryotic Initiation Factor 2 (eIF2) Complex
+C0196,110.0,7.0,103.0,unclassified,Purine Metabolism and RNA Binding Protein Assembly
+C0197,16.0,2.0,14.0,ME,Integrator-associated transcription regulation complex
+C0198,3.0,0.0,3.0,ME,XPO5-RPRD1A-CDK5RAP1 Regulatory Export Complex
+C0199,15.0,0.0,15.0,ME,Integrator Subcomplex with MON1B and ZNF143
+C0200,3.0,0.0,3.0,unclassified,XPO5-associated mRNA export regulatory complex
+C0201,5.0,0.0,5.0,unclassified,Integrator complex
+C0202,67.0,8.0,59.0,ME,IRAK4-centered innate immune signaling complex
+C0203,8.0,14.0,-6.0,EL,NMI-associated multifunctional regulatory complex
+C0204,0.0,6.0,-6.0,unclassified,"VAC14-associated PI(3,5)P2 Regulatory Complex"
+C0206,7.0,10.0,-3.0,unclassified,SHARP-CtBP Corepressor Complex
+C0207,6.0,82.0,-76.0,IH,MSH2-containing DNA mismatch repair complex
+C0209,54.0,1.0,53.0,unclassified,Human RNase P Complex
+C0210,32.0,33.0,-1.0,unclassified,WASL-SARNP-LYAR Nuclear Actin Regulation Complex
+C0211,14.0,12.0,2.0,unclassified,DDX27-PeBoW ribosome biogenesis complex
+C0212,60.0,18.0,42.0,unclassified,mRNA Decay and Nuclear Export Assembly
+C0213,3.0,45.0,-42.0,EL,Cleavage Stimulation Factor (CstF) Complex
+C0215,24.0,194.0,-170.0,IH,P-body-associated mRNA silencing complex
+C0216,125.0,174.0,-49.0,IH,SRP-associated preinitiation complex with WDR5 and SUMO2
+C0217,45.0,36.0,9.0,EL,Mitochondrial aminoacyl-tRNA synthetase and stress response assembly
+C0218,75.0,90.0,-15.0,EL,Apolipoprotein A1-Fibronectin-Haptoglobin Assembly
+C0219,11.0,51.0,-40.0,EL,"Signal Recognition Particle (SRP) Subcomplex with BTF3, DHX37, and PACSIN2"
+C0220,30.0,3.0,27.0,unclassified,Golgi-associated ARF1/ARF4 regulatory complex with metabolic enzymes
+C0221,23.0,26.0,-3.0,unclassified,ER-associated collagen prolyl hydroxylation and apoptosis regulatory assembly
+C0222,44.0,90.0,-46.0,unclassified,Non-muscle Myosin II and SUMO E1 Activating Enzyme Assembly
+C0223,24.0,194.0,-170.0,unclassified,RNA-induced silencing complex (RISC)-associated assembly
+C0224,175.0,205.0,-30.0,unclassified,PI3K-PLCγ1-SOS1 Signaling Assembly
+C0225,1.0,1.0,0.0,ME,Mitochondrial Translation and Nuclear Export Assembly
+C0226,15.0,138.0,-123.0,ME,Mitochondrial TIM23 Motor Subcomplex
+C0227,33.0,62.0,-29.0,unclassified,BUB3-associated mitotic checkpoint assembly
+C0228,31.0,7.0,24.0,unclassified,Redox and Metabolic Regulation Assembly
+C0229,72.0,28.0,44.0,unclassified,Multifunctional Metabolic and Cytoskeletal Assembly
+C0230,0.0,28.0,-28.0,unclassified,Mitochondrial ATP synthase F1 sector assembly
+C0231,33.0,152.0,-119.0,IH,TRIM28-NMI-LZTFL1 Regulatory Complex
+C0232,29.0,43.0,-14.0,unclassified,Coat Protein Complex II (COPII)
+C0233,14.0,39.0,-25.0,unclassified,CAND1-FBXO7-RNF20-RNF40-STUB1 E3 ubiquitin ligase regulatory assembly
+C0235,5.0,50.0,-45.0,unclassified,Methylcrotonyl-CoA Carboxylase Complex
+C0236,392.0,19.0,373.0,unclassified,Nup107-160 subcomplex of the Nuclear Pore Complex
+C0237,47.0,50.0,-3.0,unclassified,Mitochondrial Protein Folding and RNA Modification Assembly
+C0238,9.0,4.0,5.0,EL,Mitochondrial Aminoacyl-tRNA Synthetase and Regulatory Protein Assembly
+C0239,167.0,27.0,140.0,unclassified,Nuclear Pore Complex Subassembly
+C0240,37.0,64.0,-27.0,EL,BASP1-DOCK7-DYNLL1-PLCG1-SNX4 signaling and trafficking assembly
+C0241,50.0,311.0,-261.0,unclassified,RNA Polymerase I-KPNA2-Vimentin Assembly
+C0242,32.0,45.0,-13.0,unclassified,RNA Polymerase I Core Complex with Cohesin Subunit SMC1A
+C0243,2.0,29.0,-27.0,unclassified,Mitochondrial Cysteinyl-tRNA Synthetase and Associated Regulatory Complex
+C0244,1.0,1.0,0.0,IH,Mitochondrial Translation and RNA Processing Assembly
+C0245,0.0,128.0,-128.0,unclassified,"Metabolic Enzyme Assembly Involving GRHPR, OAT, PYGB, and RNA-Binding Modulator KHSRP"
+C0246,23.0,55.0,-32.0,IH,Multifunctional Mitochondrial and Cell Cycle Regulatory Assembly
+C0247,0.0,6.0,-6.0,unclassified,VAC14-FAM207A-HMGN1-POGK-TBC1D23 Regulatory Assembly
+C0248,42.0,30.0,12.0,ME,RP2-ARL3-UNC119 Ciliary Trafficking Complex
+C0249,8.0,50.0,-42.0,unclassified,Lysosomal Enzyme and Mitochondrial Metabolic Protein Assembly
+C0250,27.0,28.0,-1.0,unclassified,SEC23-SEC24 Cargo Adaptor Assembly
+C0251,10.0,57.0,-47.0,unclassified,Lysosomal Glycolipid Degradation and Extracellular Matrix Interaction Assembly
+C0252,78.0,49.0,29.0,unclassified,VCP-CLTC-FAF1-PFN1 Protein Quality Control Assembly
+C0253,211.0,122.0,89.0,EL,PKA-GSK3B-JUP Regulatory Assembly
+C0254,46.0,117.0,-71.0,unclassified,AHCYL1-ARCN1-CAVIN1-PPIG-TUBB3 multifunctional scaffold complex
+C0255,7.0,118.0,-111.0,unclassified,Calnexin-Caplain2-HMGA1-TNPO3 Chromatin-associated Assembly
+C0256,47.0,50.0,-3.0,unclassified,Mitochondrial Protein Folding and Assembly Complex
+C0257,13.0,1.0,12.0,unclassified,Metabolic and Lipid Transport Protein Assembly
+C0258,97.0,117.0,-20.0,unclassified,TFIIH core complex
+C0259,0.0,4.0,-4.0,unclassified,CDC42BPB-CDK5RAP3-CHAMP1-ITIH2-THNSL1 multi-protein regulatory assembly
+C0260,110.0,116.0,-6.0,unclassified,Ragulator-AMPK signaling complex
+C0261,57.0,27.0,30.0,ME,ILK-LIMS1-PARVA focal adhesion complex
+C0262,1.0,82.0,-81.0,unclassified,Mismatch Repair Complex Involving MSH2
+C0263,84.0,213.0,-129.0,EL,SMN-associated snRNP assembly complex
+C0264,120.0,14.0,106.0,unclassified,Dynein-dynactin complex with Integrator subunits
+C0267,194.0,57.0,137.0,unclassified,Nuclear Transport and Signaling Regulatory Assembly
+C0268,22.0,54.0,-32.0,ME,Calcineurin (PPP3CA)-CSK Regulatory Assembly
+C0269,19.0,170.0,-151.0,EL,SF3b Spliceosomal Subcomplex
+C0270,51.0,40.0,11.0,unclassified,Elongator complex
+C0271,4.0,14.0,-10.0,EL,Transcription Factor IIIC (TFIIIC) Multisubunit Complex
+C0272,0.0,6.0,-6.0,unclassified,VAC14-associated membrane trafficking regulatory complex
+C0273,14.0,9.0,5.0,unclassified,STAM-associated protein-sorting complex
+C0274,0.0,5.0,-5.0,unclassified,Mitochondrial Aminoacyl-tRNA Synthetase and Protein Quality Control Assembly
+C0275,20.0,110.0,-90.0,unclassified,v-ATPase-Ragulator-AMPK regulatory supercomplex
+C0276,1.0,0.0,1.0,unclassified,PI4KA-TTC7B-FAM126A-TPT1-TSNAX Regulatory Phosphatidylinositol 4-Kinase Assembly
+C0277,7.0,0.0,7.0,unclassified,UBA6-ETF1-ARHGAP10-ESYT2 multifunctional regulatory assembly
+C0278,67.0,112.0,-45.0,unclassified,CSNK1E-CWC27-GABPA-GTPBP10 multifunctional regulatory assembly
+C0279,26.0,89.0,-63.0,ME,Putative ADAP1-NSUN5-POTEF-PPIG Regulatory Assembly
+C0280,16.0,101.0,-85.0,unclassified,V-ATPase-AMPK regulatory assembly
+C0281,13.0,8.0,5.0,unclassified,ZW10-XPO5 Cargo Transport Complex
+C0282,36.0,14.0,22.0,unclassified,Endocytic Adaptor and Ubiquitin Regulation Assembly
+C0283,0.0,128.0,-128.0,ME,Mitochondrial metabolic and RNA-binding protein assembly
+C0284,18.0,33.0,-15.0,unclassified,DDX27-RBBP5 Tubulin-associated Assembly
+C0286,60.0,20.0,40.0,unclassified,Complement C3-associated multi-enzyme complex
+C0287,18.0,85.0,-67.0,unclassified,PCID2-XPOT-CHMP2B-EIF5A Assembly
+C0288,81.0,18.0,63.0,unclassified,Clathrin-associated vesicle trafficking complex
+C0290,18.0,29.0,-11.0,unclassified,P-TEFb-7SK snRNP complex
+C0291,21.0,0.0,21.0,ME,Mitochondrial trifunctional protein-associated RNA processing complex
+C0293,49.0,41.0,8.0,EL,USP7-SARNP-SEC24C-CLIC1 multifunctional regulatory assembly
+C0294,26.0,101.0,-75.0,unclassified,Microtubule-associated spliceosomal assembly
+C0296,3.0,7.0,-4.0,unclassified,Mitochondrial Translation and RNA Transport Complex
+C0297,3.0,7.0,-4.0,EL,Mitochondrial Translation and Protein Quality Control Assembly
+C0298,106.0,114.0,-8.0,unclassified,XRCC1-TDP1 DNA Single-Strand Break Repair Complex
+C0299,3.0,36.0,-33.0,EL,RAD23A-H1-1-OGFOD1-UTP23 Multifunctional DNA Repair and Ribosome Biogenesis Assembly
+C0300,73.0,51.0,22.0,EL,PTIP-associated histone methyltransferase and DNA repair complex
+C0301,0.0,2.0,-2.0,ME,VPS33B-VPS11 Endosomal Trafficking Complex
+C0302,5.0,0.0,5.0,ME,7SK snRNP complex
+C0303,3.0,5.0,-2.0,unclassified,Exosome-associated membrane remodeling complex
+C0304,0.0,14.0,-14.0,IH,COPI Coatomer Complex
+C0305,0.0,9.0,-9.0,unclassified,Mitochondrial Quality Control and Peroxisomal Metabolism Assembly
+C0306,32.0,248.0,-216.0,unclassified,CASK-associated chromatin-modifying complex
+C0307,116.0,81.0,35.0,unclassified,G protein beta subunit heterodimer with A2M and MAT2A association
+C0309,6.0,18.0,-12.0,unclassified,ER-associated glycosylation and proteostasis complex
+C0310,15.0,7.0,8.0,unclassified,RNA Polymerase I-associated complex
+C0311,8.0,0.0,8.0,IH,Laminin-521 and RASA2 Regulatory Assembly
+C0312,4.0,3.0,1.0,unclassified,Laminin beta-2 associated chaperone complex
+C0313,117.0,254.0,-137.0,unclassified,PP2A-B56α/β-catenin regulatory complex
+C0314,51.0,20.0,31.0,EL,RNA Polymerase I-associated Transcription Regulatory Complex
+C0315,46.0,108.0,-62.0,ME,Prolyl 4-hydroxylase complex with RNA helicase and chromatin-associated subunits
+C0316,43.0,3.0,40.0,IH,Prolyl 4-hydroxylase alpha subunit complex
+C0317,72.0,31.0,41.0,unclassified,XPC-DNA Damage Recognition Complex
+C0318,6.0,58.0,-52.0,EL,EIF4A1-RNH1 Multifunctional Regulatory Assembly
+C0320,112.0,196.0,-84.0,unclassified,Nuclear Cap-Binding Complex with XPO1 Export Factor
+C0323,4.0,1.0,3.0,ME,Mitochondrial Apoptosis-Inducing Factor Complex
+C0324,17.0,95.0,-78.0,unclassified,Pre-ribosomal 60S Subunit Assembly Complex
+C0325,62.0,7.0,55.0,unclassified,MLL1 (KMT2A)-MeCP2-SWI/SNF chromatin remodeling assembly
+C0326,148.0,0.0,148.0,EL,Nuclear Pore-Associated Chromatin Remodeling Assembly
+C0327,8.0,84.0,-76.0,unclassified,Nuclear Import and RNA Processing Assembly
+C0328,22.0,2.0,20.0,ME,Human tRNA Splicing Ligase Complex
+C0329,9.0,9.0,0.0,ME,Mitochondrial Apoptosis-Linked Complex
+C0330,0.0,11.0,-11.0,unclassified,"Nucleoplasmic chromatin-associated complex involving H1-1, LRRC47, NUCB1, and SELENOF"
+C0331,3.0,36.0,-33.0,unclassified,Histone H1-NUCB1-RAD23A DNA Damage Response Assembly
+C0333,62.0,24.0,38.0,unclassified,ARL3-RP2-VPS4B Membrane Trafficking Complex
+C0335,39.0,0.0,39.0,IH,PDCD6-associated calcium-dependent regulatory complex
+C0336,5.0,13.0,-8.0,EL,Adenosine Deaminase-CBFβ-CRABP2-TSTD1 Assembly
+C0337,13.0,6.0,7.0,unclassified,Apoptosome
+C0338,15.0,11.0,4.0,unclassified,Lysosomal and Metabolic Enzyme-Associated Protein Assembly
+C0339,0.0,2.0,-2.0,EL,APPL1-VPS26B Endosomal Signaling Complex
+C0340,38.0,9.0,29.0,unclassified,PDCD6IP-RAB5A Endosomal Sorting Complex
+C0341,92.0,6.0,86.0,unclassified,PA28 (Proteasome Activator) Regulatory Complex
+C0342,45.0,91.0,-46.0,EL,TFIIH transcription factor core complex
+C0343,9.0,13.0,-4.0,EL,Translation Initiation and Termination Regulatory Assembly
+C0345,6.0,38.0,-32.0,unclassified,Lysosomal Chaperone-Protease Assembly
+C0346,53.0,71.0,-18.0,unclassified,SUMO E3 ligase complex involving UBA2 and GLRX3
+C0347,42.0,6.0,36.0,unclassified,Mitochondrial Apoptosis Regulatory Complex
+C0349,8.0,15.0,-7.0,EL,Mitochondrial Stress Response Assembly
+C0352,45.0,82.0,-37.0,unclassified,AP-2 Adaptor Complex with NUMB and Epsin-1
+C0353,16.0,117.0,-101.0,unclassified,Human RNA helicase and RNA-induced silencing complex assembly
+C0354,7.0,0.0,7.0,unclassified,Mitochondrial Fatty Acid Metabolism Regulatory Complex
+C0355,54.0,6.0,48.0,unclassified,METTL3-METTL14 m6A Methyltransferase Complex
+C0356,67.0,50.0,17.0,unclassified,Mitochondrial Metabolic and Antioxidant Enzyme Assembly
+C0357,219.0,134.0,85.0,unclassified,EGFR-DDR1 Signaling Complex
+C0358,21.0,79.0,-58.0,EL,IGF2R-PLG-PLAU Proteolytic Activation Complex
+C0359,12.0,21.0,-9.0,IH,Cytoskeletal and Metabolic Enzyme Assembly
+C0360,16.0,2.0,14.0,unclassified,Complement C5-TRIM5 Regulatory Assembly
+C0361,322.0,220.0,102.0,unclassified,CD44-ERK1/2 Signaling Complex
+C0362,81.0,6.0,75.0,unclassified,Cytoplasmic 60S Ribosomal Subunit
+C0363,25.0,1.0,24.0,unclassified,ERAP1-DNAJB1-DNAJC3 Chaperone-Associated Peptidase Complex
+C0364,0.0,3.0,-3.0,unclassified,GNPTG-PFKM-TSFM Metabolic and Lysosomal Targeting Assembly
+C0365,0.0,6.0,-6.0,unclassified,Proteasome regulatory and autophagy-associated assembly
+C0366,0.0,2.0,-2.0,unclassified,SNARE-associated vesicle trafficking complex
+C0367,127.0,11.0,116.0,EL,PA28 (11S) Proteasome Activator Complex
+C0369,9.0,122.0,-113.0,unclassified,Mitochondrial AAA protease complex with HSPA9 chaperone
+C0370,4.0,3.0,1.0,unclassified,Laminin-521 Heterotrimeric Complex
+C0371,40.0,3.0,37.0,unclassified,N-terminal Acetyltransferase and RNA-binding Regulatory Assembly
+C0373,6.0,1.0,5.0,unclassified,Mitochondrial ammonia detoxification and RNA-binding protein assembly
+C0374,0.0,46.0,-46.0,ME,Collagen XVII-Coronin-Ribonuclease Inhibitor Assembly
+C0375,116.0,9.0,107.0,unclassified,CRK-Associated Signaling Assembly
+C0376,0.0,1.0,-1.0,unclassified,Electron Transfer Flavoprotein Complex
+C0377,16.0,21.0,-5.0,unclassified,"ER-associated degradation (ERAD) complex involving OS9, HSP90B1, BSG, and HMGB2"
+C0378,5.0,0.0,5.0,IH,MON1B-DHX30-GTPBP3-TBRG4 mitochondrial RNA processing complex
+C0379,109.0,51.0,58.0,unclassified,Human Cellular Antioxidant and Metabolic Enzyme Assembly
+C0380,4.0,0.0,4.0,unclassified,"Lysosomal multienzyme complex of Cathepsin A, GALNS, GLB1, and NAGA"
+C0382,75.0,36.0,39.0,unclassified,Cdk-activating kinase (CAK) core complex
+C0384,180.0,249.0,-69.0,unclassified,PI3K-PLCγ1-SOS1 signaling complex
+C0385,2.0,2.0,0.0,ME,HOPS (Homotypic fusion and Protein Sorting) complex
+C0386,15.0,4.0,11.0,unclassified,Mitochondrial Metabolic and Apoptosis Regulatory Assembly
+C0387,92.0,14.0,78.0,unclassified,ACLY-ARFIP2-CTSC-HSD17B4 multifunctional metabolic complex
+C0388,2.0,2.0,0.0,ME,Mitochondrial Methylmalonyl-CoA Mutase Assembly with TRIM25 and CC2D1B
+C0389,78.0,5.0,73.0,unclassified,Mitochondrial Protein Quality Control Assembly
+C0390,0.0,3.0,-3.0,unclassified,SUGT1-NOSIP-YARS2-Associated Regulatory Assembly
+C0391,8.0,20.0,-12.0,unclassified,TAK1-TAB1-FKBP5 Regulatory Assembly
+C0392,24.0,17.0,7.0,unclassified,DNA synthesome core complex
+C0393,0.0,2.0,-2.0,unclassified,Mitochondrial Metabolic and Protease Regulatory Assembly
+C0394,10.0,82.0,-72.0,IH,CAB39L-HIKESHI-ANXA8L1-HIBADH metabolic regulatory assembly
+C0395,22.0,6.0,16.0,unclassified,Beta-arrestin 2-CLIC5-DHPS-UBP1 regulatory assembly
+C0396,4.0,0.0,4.0,ME,"Lysosomal multienzyme complex of Cathepsin A, beta-Galactosidase, GALNS, and ABHD11"
+C0397,12.0,3.0,9.0,unclassified,USP7-associated chromatin and RNA processing assembly
+C0398,13.0,32.0,-19.0,ME,SUMO E1 activating complex with ORC3 and MYH10 association
+C0400,30.0,355.0,-325.0,IH,EIF2 Translation Initiation Complex with HDAC8 and YLPM1
+C0403,15.0,20.0,-5.0,unclassified,BLM-MSH2 DNA Repair Complex
+C0404,0.0,28.0,-28.0,unclassified,BRISC deubiquitinase complex
+C0405,53.0,8.0,45.0,unclassified,Nuclear Envelope-Associated Regulatory Complex
+C0406,155.0,90.0,65.0,unclassified,CDK5-associated chaperone complex
+C0407,377.0,571.0,-194.0,IH,FAK-Cortactin-AKT1-OGFR signaling complex
+C0409,17.0,90.0,-73.0,unclassified,Spliceosomal C Complex with LLGL1-associated regulatory subunits
+C0410,0.0,4.0,-4.0,unclassified,CDC42BPB-NAPA-ITIH2-THNSL1 Associated Regulatory Assembly
+C0411,5.0,33.0,-28.0,unclassified,Mitochondrial aminoacyl-tRNA synthetase and protein import-associated assembly
+C0412,210.0,2.0,208.0,EL,Nuclear Pore Complex Subassembly Involving NUP107 and CCDC86
+C0416,0.0,1.0,-1.0,unclassified,"TRAF2-associated regulatory complex with FYTTD1, IMPACT, and RRP1B"
+C0418,4.0,2.0,2.0,EL,MAD1L1-AUH-PA2G4-UQCC1 assembly
+C0419,39.0,0.0,39.0,unclassified,ABCF1-CCNY-NFIA-PDPR regulatory assembly
+C0420,0.0,3.0,-3.0,unclassified,Metabolic and Mitochondrial Protein Assembly
+C0421,4.0,0.0,4.0,unclassified,MTERF4-NSUN4 Mitochondrial Ribosome Assembly Complex
+C0422,10.0,82.0,-72.0,IH,HIKESHI-CAB39L-ANXA8L1-DPCD regulatory assembly
+C0424,3.0,0.0,3.0,unclassified,"Integrator subcomplex containing INTS1, INTS7, and INTS10 with LLGL2 association"
+C0425,54.0,7.0,47.0,IH,METTL3-METTL14-RRM2B RNA Modification Assembly
+C0427,0.0,2.0,-2.0,unclassified,VPS11-containing Endosomal Trafficking Complex
+C0428,4.0,44.0,-40.0,unclassified,ESYT2-ETF1-FYTTD1-PWP2 multifunctional RNA processing assembly
+C0429,5.0,34.0,-29.0,ME,UBA6-Mediated Ubiquitin Activation Complex
+C0430,5.0,34.0,-29.0,IH,Extracellular Matrix-Associated Collagen-Metabolism Assembly
+C0431,4.0,2.0,2.0,unclassified,"Mitochondrial Complex Assembly Involving AUH, CFAP20, MAD1L1, and UQCC1"
+C0432,0.0,44.0,-44.0,unclassified,Mitochondrial Ribosomal Large Subunit Biogenesis Factor Complex
+C0433,149.0,3.0,146.0,unclassified,PSME1/PSME2-Associated Proteasome Regulatory Complex
+C0434,36.0,12.0,24.0,unclassified,GRK2-MAPK3-NAA25-TBCB regulatory assembly
+C0435,33.0,20.0,13.0,unclassified,PCNA-DNA polymerase delta complex
+C0436,19.0,6.0,13.0,unclassified,NuRD chromatin remodeling complex
+C0437,4.0,2.0,2.0,unclassified,Mitochondrial Metabolic and Spindle Checkpoint Assembly
+C0439,58.0,0.0,58.0,IH,mTRAPP II complex
+C0440,45.0,2.0,43.0,EL,CCR4-NOT complex subassembly containing CNOT1 and CNOT7
+C0442,8.0,44.0,-36.0,EL,Branched-Chain α-Ketoacid Dehydrogenase Complex (BCKDH) with BTF3 and DHX37-associated factors
+C0444,14.0,35.0,-21.0,unclassified,CLUH-PIK3C2A-SHOC2 signaling assembly
+C0445,70.0,24.0,46.0,ME,Ceruloplasmin-CAP1-ACSL4 functional assembly
+C0446,0.0,10.0,-10.0,unclassified,ACLY-ARFIP2-IVD Metabolic and Vesicle Trafficking Assembly
+C0448,108.0,42.0,66.0,IH,ACSF3-ARPC1A-PTPN11 multifunctional assembly
+C0449,0.0,7.0,-7.0,unclassified,EEF1D-CCDC9-TLN2 multifunctional cytoskeletal and translation-associated complex
+C0450,6.0,0.0,6.0,EL,Protein Phosphatase 4 (PP4) Complex
+C0451,39.0,14.0,25.0,unclassified,RNA Polymerase I Core Complex
+C0453,0.0,2.0,-2.0,IH,Mitochondrial metabolic and trafficking assembly
+C0454,8.0,8.0,0.0,unclassified,LYPLA1-SEC22B-SH3BGRL membrane trafficking and lipid metabolism complex
+C0455,168.0,0.0,168.0,IH,GCAT-GNPDA2-NUP58 Metabolic-Nuclear Pore Interface Complex
+C0457,127.0,12.0,115.0,unclassified,Mitochondrial Copper Delivery and Hypoxia Response Assembly
+C0458,23.0,14.0,9.0,unclassified,Dynactin complex subunit assembly
+C0459,5.0,0.0,5.0,unclassified,Mitochondrial RNA Silencing and Translation Assembly
+C0462,23.0,52.0,-29.0,EL,Transferrin-Transferrin Receptor Complex
+C0464,2.0,24.0,-22.0,unclassified,TYMS-GABARAPL2-LRRC40 complex
+C0465,61.0,67.0,-6.0,unclassified,Translin-Trax-AKAP2 Assembly
+C0466,35.0,11.0,24.0,unclassified,HGF-Met receptor signaling complex
+C0468,16.0,8.0,8.0,ME,CMPK1-ECHS1-GSTP1 metabolic enzyme assembly
+C0471,2.0,0.0,2.0,unclassified,FIZ1-PDS5A-STRBP regulatory chromatin complex
+C0472,0.0,6.0,-6.0,unclassified,Iron Regulatory V-ATPase-Associated Complex
+C0473,4.0,91.0,-87.0,unclassified,Spliceosomal B Complex
+C0476,29.0,0.0,29.0,unclassified,BICD2-associated ESCRT-III and RAE1 complex
+C0477,106.0,40.0,66.0,unclassified,Mitochondrial tRNA Modification and Stress Response Assembly
+C0479,18.0,42.0,-24.0,unclassified,DNA ligase IV-XRCC4 complex
+C0480,42.0,46.0,-4.0,unclassified,HDAC3-H1.3-NCOR2 (SMRT) Corepressor Complex
+C0481,0.0,2.0,-2.0,unclassified,ARHGDIB-CUTC-PRG4 multifunctional protein assembly
+C0482,7.0,0.0,7.0,unclassified,Mitochondrial DNA replication and regulation complex
+C0483,22.0,54.0,-32.0,ME,Calcineurin (PPP3CA)-CSK-EHHADH Associated Complex
+C0486,13.0,44.0,-31.0,unclassified,ARHGEF1-EMG1-GLG1 regulatory assembly
+C0487,47.0,0.0,47.0,EL,IL-1 receptor signaling complex with KMT2A-associated chromatin modifier
+C0488,6.0,7.0,-1.0,ME,BYSL-CDK13-CKAP5 mitotic regulatory complex
+C0489,66.0,10.0,56.0,unclassified,Dynactin complex
+C0491,26.0,5.0,21.0,unclassified,Hook3-ESCRT-III associated complex
+C0492,0.0,2.0,-2.0,unclassified,Mitochondrial ATP Synthase Assembly Factor Complex
+C0495,78.0,99.0,-21.0,unclassified,SH3KBP1-SOS1-IFT27 signaling complex
+C0496,12.0,59.0,-47.0,EL,Mitochondrial RNA Processing and Stress Response Assembly
+C0498,4.0,10.0,-6.0,unclassified,FPGT-NDEL1-PCTP functional assembly
+C0499,0.0,3.0,-3.0,unclassified,Mitochondrial tRNA Modification and Aminoacylation Complex
+C0500,5.0,1.0,4.0,unclassified,Aldo-keto reductase and purine salvage enzyme complex with mitochondrial cytochrome c oxidase subunit
+C0501,0.0,7.0,-7.0,unclassified,"Isocitrate dehydrogenase [NAD], mitochondrial"
+C0503,47.0,6.0,41.0,EL,STRIPAK complex
+C0504,11.0,4.0,7.0,unclassified,Mitochondrial metabolic enzyme assembly
+C0505,0.0,4.0,-4.0,unclassified,Gamma-tubulin small complex (γ-TuSC)

@@ -1,0 +1,23 @@
+__pycache__/
+.env
+.DS_Store
+.ipynb_checkpoints/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+# Exclude heavy exploratory analysis outputs tree (5.3 GB)
+03_analysis/01_exploratory_analysis/03_tables/
+# Additional local working files and wiki metadata
+.llm-wiki/
+.venv/
+.vscode/
+99_dump/
+02_data_sourcessnap/
+# Exclude heavy 03_analysis and 02_data_sources trees
+03_analysis/
+02_data_sources/
+.venv/

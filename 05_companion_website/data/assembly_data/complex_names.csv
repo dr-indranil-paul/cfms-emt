@@ -1,0 +1,612 @@
+complex_name,assigned_name,confidence_score,source
+C0001,Human 60S Cytoplasmic Ribosomal Subunit,0.85,LLM
+C0002,Ribonucleoprotein Assembly Involved in mRNA Processing and Translation Regulation,0.85,LLM
+C0003,Human U2 snRNP-associated spliceosomal complex,0.85,LLM
+C0004,BRG1-SIN3A-HDAC Chromatin Remodeling and Deacetylase Complex,0.85,LLM
+C0005,NuRD (Nucleosome Remodeling and Deacetylase) complex,0.95,LLM
+C0006,Multifunctional Ribosome-Associated and Nuclear Regulatory Assembly,0.85,LLM
+C0007,26S Proteasome,0.95,LLM
+C0008,"40S ribosomal subunit, cytoplasmic",0.9,LLM
+C0009,Mitochondrial Metabolic and Protein Synthesis Assembly,0.85,LLM
+C0010,Mitochondrial Fatty Acid Oxidation and Amino Acid Metabolism Supercomplex,0.85,LLM
+C0011,Caveolae Coat Complex (CAVIN1-CAVIN2-CAVIN3),0.85,LLM
+C0012,RUVBL1-containing Ribonucleoprotein Assembly,0.75,LLM
+C0013,Caveolae Coat Complex with Ribosome Biogenesis and RNA Processing Factors,0.75,LLM
+C0014,Caveolae-associated Cavin Complex,0.85,LLM
+C0015,Human Box H/ACA Ribonucleoprotein Complex,0.85,LLM
+C0016,Nucleolar RUVBL1-DKC1 Ribosome Biogenesis Complex,0.85,LLM
+C0017,Ubiquilin-Proteasome Assembly,0.75,LLM
+C0018,Nonmuscle Myosin II Complex with Associated Metabolic and Regulatory Subunits,0.85,LLM
+C0019,Mitochondrial Amino Acid and Energy Metabolism Assembly,0.85,LLM
+C0020,Human Aminoacyl-tRNA Synthetase-Associated Assembly,0.85,LLM
+C0021,cBAF (canonical BAF) chromatin remodeling complex,0.85,LLM
+C0022,DNA-PK-Ku-RPA-PARP1 DNA Damage Response Complex,0.9,LLM
+C0023,Heterogeneous Nuclear Ribonucleoprotein (hnRNP)-Associated RNA Processing Complex,0.85,LLM
+C0024,Nucleophosmin-associated ribonucleoprotein assembly,0.85,LLM
+C0025,14-3-3 Scaffolded Multi-Protein Regulatory Complex,0.85,LLM
+C0026,DNA Double-Strand Break Repair Complex (NHEJ and HR components),0.9,LLM
+C0027,14-3-3 Scaffolded MAP2K1/2 Signaling Assembly,0.85,LLM
+C0028,Nucleophosmin-associated ribonucleoprotein complex,0.85,LLM
+C0029,DNA-PK-Ku-PARP1-Nucleophosmin Chromatin Repair Complex,0.85,LLM
+C0030,HSP90 Chaperone and 14-3-3 Scaffold Protein Assembly,0.85,LLM
+C0031,COP9 Signalosome Complex,0.85,LLM
+C0032,Human Telomerase Holoenzyme Assembly,0.85,LLM
+C0033,Pyruvate Dehydrogenase Complex with 14-3-3 and HSP90 Chaperones,0.85,LLM
+C0034,DNA-PK-Ku-eIF2-NF90-NF45 multifunctional complex,0.85,LLM
+C0035,Human spliceosome B complex,0.85,LLM
+C0036,RNA Processing and Stress Response Assembly,0.75,LLM
+C0037,Pyruvate Dehydrogenase HSP90 Chaperone Assembly,0.85,LLM
+C0038,Mitochondrial RNA Processing and Quality Control Assembly,0.85,LLM
+C0039,Mitochondrial Protein Quality Control and RNA Processing Assembly,0.75,LLM
+C0040,TRIM28-NMI Transcriptional Corepressor Complex,0.85,LLM
+C0041,Aminoacyl-tRNA Synthetase-Associated Signaling Assembly,0.85,LLM
+C0042,Mitochondrial RNA Processing and Protein Import Assembly,0.85,LLM
+C0043,Nucleolar Ribosome Biogenesis and RNA Processing Assembly,0.85,LLM
+C0044,CAPZalpha-CAPZbeta Actin Capping Complex,0.85,LLM
+C0045,Exon Junction Complex with Nonsense-Mediated Decay Factors,0.85,LLM
+C0046,Matrin3-Associated Nuclear Ribonucleoprotein Complex,0.85,LLM
+C0047,Mitochondrial Metabolic and Proteostasis Assembly,0.75,LLM
+C0048,eukaryotic translation initiation factor 3 (eIF3) complex,0.95,LLM
+C0049,Human mRNA Surveillance and Decay Complex,0.9,LLM
+C0050,Septin Filament Assembly with Associated Protein Homeostasis Factors,0.75,LLM
+C0051,RNA polymerase II pre-initiation complex,0.9,LLM
+C0052,Cleavage Factor IIAm (CF IIAm) complex,0.85,LLM
+C0053,Septin Filament Assembly with Ferritin and Protein Folding Enzymes,0.75,LLM
+C0054,TCP1-Ring Complex with Metabolic and Apoptotic Subunits,0.85,LLM
+C0055,SNF2h-cohesin-NuRD complex,0.85,LLM
+C0056,Retromer-SNX Sorting Complex,0.9,LLM
+C0057,RUVBL1/2-Associated Histone Modification and Spliceosome Regulatory Complex,0.85,LLM
+C0058,Human Multisynthetase Complex,0.95,LLM
+C0059,p400/Tip60-associated chromatin remodeling complex,0.85,LLM
+C0060,Human pre-mRNA spliceosome B-WICH hybrid complex,0.85,LLM
+C0061,Human RNA Exosome Complex,0.95,LLM
+C0062,ANP32-Nucleosome Assembly and Regulation Complex,0.85,LLM
+C0063,Metabolic and Protein Processing Assembly Involving RACK1,0.65,LLM
+C0064,39S mitochondrial large ribosomal subunit,0.9,LLM
+C0065,CAPZ-PP1-IQGAP1 Proteasome Regulatory Assembly,0.85,LLM
+C0066,Spliceosome B complex,0.85,LLM
+C0067,Human pre-mRNA splicing Bact-like complex,0.85,LLM
+C0068,Mitochondrial Processing and Antioxidant Protein Assembly,0.85,LLM
+C0069,COP9 signalosome complex,0.95,LLM
+C0070,Mitochondrial protein quality control and cell adhesion assembly,0.75,LLM
+C0071,NuA4/Tip60 histone acetyltransferase complex,0.85,LLM
+C0072,E-cadherin-catenin adhesion complex,0.85,LLM
+C0073,ANP32-SET Histone Chaperone Assembly,0.85,LLM
+C0074,EIF3-G3BP2-40S Ribosomal Subunit Assembly,0.85,LLM
+C0075,Nonsense-Mediated mRNA Decay (NMD) Complex,0.85,LLM
+C0076,Protein Kinase A Regulatory Complex with GSK3B and PPP2R1A,0.85,LLM
+C0077,Exon Junction Complex (EJC) with Nonsense-Mediated Decay Factors,0.85,LLM
+C0078,B-WICH chromatin remodeling complex,0.85,LLM
+C0079,Mitochondrial 28S Small Ribosomal Subunit,0.95,LLM
+C0080,SURF complex,0.85,LLM
+C0081,Mitochondrial Protein Processing and Metabolic Assembly,0.75,LLM
+C0082,Septin Filament Assembly with Associated Regulatory Proteins,0.75,LLM
+C0083,Importin alpha/beta nuclear transport complex,0.9,LLM
+C0084,WRAD-HCF1-OGT Epigenetic Regulatory Complex,0.85,LLM
+C0085,Mitochondrial Protein Quality Control and Metabolic Regulation Assembly,0.75,LLM
+C0086,ANP32-SET-NAP1L Histone Chaperone Assembly,0.85,LLM
+C0087,Eukaryotic Translation Initiation and Mitochondrial Biogenesis Assembly,0.75,LLM
+C0088,hASC-1 transcriptional coactivator complex,0.85,LLM
+C0089,Annexin A2-Peroxiredoxin Antioxidant Assembly,0.85,LLM
+C0090,Nup107-160 subcomplex,0.95,LLM
+C0091,WASH-CAPZ-Clathrin Actin Regulatory Complex,0.85,LLM
+C0092,Chaperonin Containing TCP1 (CCT) Complex,0.95,LLM
+C0093,Rab7A-Associated SNX-TBC1D5 Retromer Assembly,0.85,LLM
+C0094,PML-associated chromatin regulatory complex,0.75,LLM
+C0095,Multifunctional metabolic and cytoskeletal regulatory assembly,0.65,LLM
+C0096,Mitochondrial Metabolic and Stress Response Assembly,0.75,LLM
+C0097,CCC complex,0.9,LLM
+C0098,ESCRT-II complex,0.85,LLM
+C0099,Septin-Associated Cytoskeletal and Membrane Remodeling Complex,0.85,LLM
+C0100,Pre-mRNA Spliceosomal Complex Involving PRPF3 and NSRP1,0.75,LLM
+C0101,Cullin-RING E3 ubiquitin ligase complexes with CAND1 regulation,0.85,LLM
+C0102,PPP1C-RHOA-MLCP Regulatory Complex,0.85,LLM
+C0103,ANP32-NAP1-SET Histone Chaperone Assembly,0.85,LLM
+C0104,VPS25-VPS36 Endosomal Sorting Assembly,0.85,LLM
+C0105,Integrin beta-1 (ITGB1)-associated signaling complex,0.7,LLM
+C0106,Multifunctional Cytoskeletal and Mitochondrial Protein Assembly,0.7,LLM
+C0107,PPP2A Holoenzyme Assembly with PIN1 and Associated Regulatory Subunits,0.85,LLM
+C0108,PP1c-RhoA-PRKA regulatory complex,0.85,LLM
+C0109,Nup107-160 Core Scaffold Complex with EIPR1 and NIFK,0.85,LLM
+C0110,Lysosomal and Mitochondrial Metabolic Enzyme Assembly,0.6,LLM
+C0111,Cap-Binding Complex (CBC) with Translation Initiation and Nonsense-Mediated Decay Factors,0.85,LLM
+C0112,Importin alpha subunits and RNA polymerase I assembly with vimentin,0.75,LLM
+C0113,PeBoW-Proteasome Hybrid Assembly,0.75,LLM
+C0114,Laminin-Associated Cytoskeletal and Metabolic Assembly,0.75,LLM
+C0115,Cullin-RING Ligase Scaffold Assembly with CAND1,0.85,LLM
+C0116,CDC42-associated oxidative stress response complex,0.75,LLM
+C0117,Human TREX (Transcription-Export) Complex,0.9,LLM
+C0118,Kinesin-1 Motor Complex with Associated Chaperones and Spliceosomal Component,0.7,LLM
+C0119,GNB1-associated multifunctional signaling assembly,0.7,LLM
+C0120,Retromer-SNX Assembly,0.85,LLM
+C0121,CDC42-associated redox-regulatory and cytoskeletal complex,0.75,LLM
+C0122,"Metabolic-Enzyme Scaffold Complex involving GSK3B, PKM, FASN, and EZR",0.75,LLM
+C0123,LSm2-8 Complex,0.85,LLM
+C0124,Mitochondrial Metabolic and Redox Regulation Assembly,0.85,LLM
+C0125,ABI1-CYFIP1-ROCK2 Actin Modulatory Assembly,0.85,LLM
+C0126,TFIIH transcription factor complex,0.85,LLM
+C0127,CDK-Activating Kinase (CAK)-Associated TFIIH Subcomplex,0.85,LLM
+C0128,Mitochondrial Metabolic and Antioxidant Protein Assembly,0.7,LLM
+C0129,Casein Kinase II-HMGB1-EWSR1 Ubiquitin Regulatory Complex,0.85,LLM
+C0130,ABI1-ROCK2 Actin Remodeling Complex,0.85,LLM
+C0131,WAVE-2 Actin Regulatory Complex,0.85,LLM
+C0132,Mitochondrial metabolic and RNA processing assembly,0.75,LLM
+C0133,Casein Kinase II-HMGB1 Regulatory Complex,0.85,LLM
+C0134,PRPF3-containing spliceosomal subcomplex,0.75,LLM
+C0135,Signal Recognition Particle (SRP) Subcomplex with RNA Processing and Stress Granule Components,0.75,LLM
+C0136,Pyruvate Dehydrogenase Complex (PDC),0.95,LLM
+C0137,PPP1C-RHOA-MLCP regulatory complex,0.85,LLM
+C0138,Huntingtin-associated multi-protein complex with mitochondrial and nucleic acid regulation components,0.75,LLM
+C0139,Exocyst complex,0.95,LLM
+C0140,Nuclear Basket-Associated Nucleoporin Assembly,0.85,LLM
+C0141,H/ACA ribonucleoprotein complex,0.85,LLM
+C0142,WAVE Regulatory Complex (WRC),0.85,LLM
+C0143,Plasma Protease Inhibitor and Glycolytic Enzyme Assembly,0.6,LLM
+C0144,Nuclear Pore Complex,0.9,LLM
+C0145,Arp2/3 complex,1,LLM
+C0146,Signal Recognition Particle (SRP) Complex,0.85,LLM
+C0147,UHRF1-associated chromatin remodeling complex,0.75,LLM
+C0148,Annexin A2-S100A10-PFN1-Plectin-AHNAK-GPX1-XRCC4 multifunctional cytoskeletal and DNA repair assembly,0.7,LLM
+C0149,AKT1-GOPC-DYNC1I2-Calpain-Mediated Signaling Assembly,0.75,LLM
+C0150,MCM2-7 Helicase Complex,0.95,LLM
+C0151,Metabolic and Lysosomal Enzyme Assembly Complex,0.7,LLM
+C0152,Replication Protein A (RPA) Complex with DNA Polymerase Delta Subunit,0.85,LLM
+C0153,Mitochondrial Ribosome Biogenesis Factor Assembly,0.85,LLM
+C0154,ER-associated Protein Folding and Trafficking Assembly,0.75,LLM
+C0155,Mitochondrial Large Ribosomal Subunit Assembly Complex,0.85,LLM
+C0156,MRN-TERF2 DNA Damage Response Complex,0.85,LLM
+C0157,"Nuclear Export Complex involving NCBP2, RAN, and XPO1",0.85,LLM
+C0158,PP2A Holoenzyme Complex with PIN1 and PRDX4,0.85,LLM
+C0159,VPS25-WDR4 Exocyst-Associated Assembly,0.85,LLM
+C0160,Set1B-PP1-WDR82 Regulatory Complex,0.85,LLM
+C0161,PP2A Regulatory Complex with NEDD4 and BCL2L13,0.75,LLM
+C0162,COP9 Signalosome Subcomplex with SRP and Chromatin-associated Proteins,0.75,LLM
+C0163,Mitochondrial Redox and Metabolic Regulation Assembly,0.85,LLM
+C0164,Multifunctional Metabolic and Cytoskeletal Regulatory Assembly,0.65,LLM
+C0165,PRMT5-ASH2L-RBBP5 Tubulin-associated Assembly,0.75,LLM
+C0166,IRAK4-associated innate immune signaling complex,0.85,LLM
+C0167,IRAK4-RNF123 Multifunctional Signaling Assembly,0.85,LLM
+C0168,Mitochondrial Redox and Cytoskeletal Regulation Complex,0.75,LLM
+C0169,Nuclear Pore Basket-Scaffold Assembly,0.9,LLM
+C0170,Cleavage and Polyadenylation Specificity Factor (CPSF)-Cleavage Stimulation Factor (CstF) Complex,0.9,LLM
+C0171,ANP32-SET-MRTO4 Regulatory Assembly,0.75,LLM
+C0172,Annexin A4-Cofilin-1-Mitochondrial Stress Response Assembly,0.85,LLM
+C0173,Cleavage and Polyadenylation Specificity Factor (CPSF) Complex,0.85,LLM
+C0174,Conserved Oligomeric Golgi (COG) Complex Subunit Assembly,0.85,LLM
+C0175,AP-1 Adaptor Protein Complex,0.85,LLM
+C0176,Gamma-tubulin complex-associated assembly,0.7,LLM
+C0177,Mitochondrial Nucleotide Metabolism and Dynamics Assembly,0.85,LLM
+C0178,Mitochondrial multifunctional enzyme complex,0.75,LLM
+C0179,DNA Ligase III-Associated Multi-Functional Complex,0.7,LLM
+C0180,RNA polymerase III complex,0.95,LLM
+C0181,Coatomer complex (COPI complex),0.95,LLM
+C0182,Ezrin-associated metabolic and signaling assembly,0.7,LLM
+C0183,BCKDHB-associated chromatin and nuclear transport assembly,0.65,LLM
+C0184,SEC23A-SEC24 Coat Protein Complex II Subunit Assembly,0.7,LLM
+C0185,APP-Integrin-RIPK1 Signaling Complex,0.75,LLM
+C0186,Integrin beta-4 (ITGB4)-RACK1 adhesion and lysosomal enzyme complex,0.75,LLM
+C0187,Dynactin Complex Subunit 5-Associated Assembly,0.7,LLM
+C0188,SORBS3-DLG5 Scaffold Complex,0.7,LLM
+C0189,Heterogeneous Nuclear Ribonucleoprotein (hnRNP) RNP Assembly with Mitochondrial PPIF,0.75,LLM
+C0190,PML-associated epigenetic regulatory complex,0.75,LLM
+C0191,Propionyl-CoA Carboxylase Holoenzyme with Regulatory Subunits,0.85,LLM
+C0192,SEC23-SEC24 Coat Protein Complex II Subassembly,0.85,LLM
+C0193,UFMylation-associated translation initiation complex,0.75,LLM
+C0194,Mitochondrial Metabolic Enzyme Assembly,0.7,LLM
+C0195,Eukaryotic Initiation Factor 2 (eIF2) Complex,0.85,LLM
+C0196,Purine Metabolism and RNA Binding Protein Assembly,0.7,LLM
+C0197,Integrator-associated transcription regulation complex,0.75,LLM
+C0198,XPO5-RPRD1A-CDK5RAP1 Regulatory Export Complex,0.7,LLM
+C0199,Integrator Subcomplex with MON1B and ZNF143,0.75,LLM
+C0200,XPO5-associated mRNA export regulatory complex,0.75,LLM
+C0201,Integrator complex,0.9,LLM
+C0202,IRAK4-centered innate immune signaling complex,0.85,LLM
+C0203,NMI-associated multifunctional regulatory complex,0.7,LLM
+C0204,"VAC14-associated PI(3,5)P2 Regulatory Complex",0.85,LLM
+C0205,PRPF4-associated spliceosomal subcomplex,0.8,LLM
+C0206,SHARP-CtBP Corepressor Complex,0.85,LLM
+C0207,MSH2-containing DNA mismatch repair complex,0.75,LLM
+C0208,Human RNase MRP Complex,0.85,LLM
+C0209,Human RNase P Complex,0.85,LLM
+C0210,WASL-SARNP-LYAR Nuclear Actin Regulation Complex,0.75,LLM
+C0211,DDX27-PeBoW ribosome biogenesis complex,0.85,LLM
+C0212,mRNA Decay and Nuclear Export Assembly,0.75,LLM
+C0213,Cleavage Stimulation Factor (CstF) Complex,0.85,LLM
+C0214,PCID2-associated mRNA export complex,0.75,LLM
+C0215,P-body-associated mRNA silencing complex,0.85,LLM
+C0216,SRP-associated preinitiation complex with WDR5 and SUMO2,0.75,LLM
+C0217,Mitochondrial aminoacyl-tRNA synthetase and stress response assembly,0.75,LLM
+C0218,Apolipoprotein A1-Fibronectin-Haptoglobin Assembly,0.7,LLM
+C0219,"Signal Recognition Particle (SRP) Subcomplex with BTF3, DHX37, and PACSIN2",0.75,LLM
+C0220,Golgi-associated ARF1/ARF4 regulatory complex with metabolic enzymes,0.7,LLM
+C0221,ER-associated collagen prolyl hydroxylation and apoptosis regulatory assembly,0.75,LLM
+C0222,Non-muscle Myosin II and SUMO E1 Activating Enzyme Assembly,0.85,LLM
+C0223,RNA-induced silencing complex (RISC)-associated assembly,0.75,LLM
+C0224,PI3K-PLCγ1-SOS1 Signaling Assembly,0.85,LLM
+C0225,Mitochondrial Translation and Nuclear Export Assembly,0.75,LLM
+C0226,Mitochondrial TIM23 Motor Subcomplex,0.7,LLM
+C0227,BUB3-associated mitotic checkpoint assembly,0.6,LLM
+C0228,Redox and Metabolic Regulation Assembly,0.7,LLM
+C0229,Multifunctional Metabolic and Cytoskeletal Assembly,0.45,LLM
+C0230,Mitochondrial ATP synthase F1 sector assembly,0.85,LLM
+C0231,TRIM28-NMI-LZTFL1 Regulatory Complex,0.75,LLM
+C0232,Coat Protein Complex II (COPII),0.9,LLM
+C0233,CAND1-FBXO7-RNF20-RNF40-STUB1 E3 ubiquitin ligase regulatory assembly,0.75,LLM
+C0234,Chromatin Assembly Factor 1 (CAF-1) Associated Complex,0.7,LLM
+C0235,Methylcrotonyl-CoA Carboxylase Complex,0.85,LLM
+C0236,Nup107-160 subcomplex of the Nuclear Pore Complex,0.85,LLM
+C0237,Mitochondrial Protein Folding and RNA Modification Assembly,0.75,LLM
+C0238,Mitochondrial Aminoacyl-tRNA Synthetase and Regulatory Protein Assembly,0.75,LLM
+C0239,Nuclear Pore Complex Subassembly,0.7,LLM
+C0240,BASP1-DOCK7-DYNLL1-PLCG1-SNX4 signaling and trafficking assembly,0.7,LLM
+C0241,RNA Polymerase I-KPNA2-Vimentin Assembly,0.85,LLM
+C0242,RNA Polymerase I Core Complex with Cohesin Subunit SMC1A,0.7,LLM
+C0243,Mitochondrial Cysteinyl-tRNA Synthetase and Associated Regulatory Complex,0.65,LLM
+C0244,Mitochondrial Translation and RNA Processing Assembly,0.75,LLM
+C0245,"Metabolic Enzyme Assembly Involving GRHPR, OAT, PYGB, and RNA-Binding Modulator KHSRP",0.65,LLM
+C0246,Multifunctional Mitochondrial and Cell Cycle Regulatory Assembly,0.3,LLM
+C0247,VAC14-FAM207A-HMGN1-POGK-TBC1D23 Regulatory Assembly,0.65,LLM
+C0248,RP2-ARL3-UNC119 Ciliary Trafficking Complex,0.7,LLM
+C0249,Lysosomal Enzyme and Mitochondrial Metabolic Protein Assembly,0.6,LLM
+C0250,SEC23-SEC24 Cargo Adaptor Assembly,0.85,LLM
+C0251,Lysosomal Glycolipid Degradation and Extracellular Matrix Interaction Assembly,0.7,LLM
+C0252,VCP-CLTC-FAF1-PFN1 Protein Quality Control Assembly,0.85,LLM
+C0253,PKA-GSK3B-JUP Regulatory Assembly,0.75,LLM
+C0254,AHCYL1-ARCN1-CAVIN1-PPIG-TUBB3 multifunctional scaffold complex,0.65,LLM
+C0255,Calnexin-Caplain2-HMGA1-TNPO3 Chromatin-associated Assembly,0.65,LLM
+C0256,Mitochondrial Protein Folding and Assembly Complex,0.85,LLM
+C0257,Metabolic and Lipid Transport Protein Assembly,0.65,LLM
+C0258,TFIIH core complex,0.85,LLM
+C0259,CDC42BPB-CDK5RAP3-CHAMP1-ITIH2-THNSL1 multi-protein regulatory assembly,0.65,LLM
+C0260,Ragulator-AMPK signaling complex,0.85,LLM
+C0261,ILK-LIMS1-PARVA focal adhesion complex,0.85,LLM
+C0262,Mismatch Repair Complex Involving MSH2,0.7,LLM
+C0263,SMN-associated snRNP assembly complex,0.75,LLM
+C0264,Dynein-dynactin complex with Integrator subunits,0.75,LLM
+C0265,CANX-CHAF1B-FLII Nuclear Assembly Complex,0.75,LLM
+C0266,PI4KA-FAM126A-TTC7B Phosphatidylinositol 4-Kinase Complex,0.85,LLM
+C0267,Nuclear Transport and Signaling Regulatory Assembly,0.85,LLM
+C0268,Calcineurin (PPP3CA)-CSK Regulatory Assembly,0.75,LLM
+C0269,SF3b Spliceosomal Subcomplex,0.85,LLM
+C0270,Elongator complex,0.7,LLM
+C0271,Transcription Factor IIIC (TFIIIC) Multisubunit Complex,0.85,LLM
+C0272,VAC14-associated membrane trafficking regulatory complex,0.7,LLM
+C0273,STAM-associated protein-sorting complex,0.75,LLM
+C0274,Mitochondrial Aminoacyl-tRNA Synthetase and Protein Quality Control Assembly,0.65,LLM
+C0275,v-ATPase-Ragulator-AMPK regulatory supercomplex,0.85,LLM
+C0276,PI4KA-TTC7B-FAM126A-TPT1-TSNAX Regulatory Phosphatidylinositol 4-Kinase Assembly,0.85,LLM
+C0277,UBA6-ETF1-ARHGAP10-ESYT2 multifunctional regulatory assembly,0.6,LLM
+C0278,CSNK1E-CWC27-GABPA-GTPBP10 multifunctional regulatory assembly,0.6,LLM
+C0279,Putative ADAP1-NSUN5-POTEF-PPIG Regulatory Assembly,0.4,LLM
+C0280,V-ATPase-AMPK regulatory assembly,0.75,LLM
+C0281,ZW10-XPO5 Cargo Transport Complex,0.7,LLM
+C0282,Endocytic Adaptor and Ubiquitin Regulation Assembly,0.75,LLM
+C0283,Mitochondrial metabolic and RNA-binding protein assembly,0.6,LLM
+C0284,DDX27-RBBP5 Tubulin-associated Assembly,0.7,LLM
+C0285,Calnexin-CNPY2-SLC3A2-TNPO3 chaperone-import complex,0.75,LLM
+C0286,Complement C3-associated multi-enzyme complex,0.65,LLM
+C0287,PCID2-XPOT-CHMP2B-EIF5A Assembly,0.65,LLM
+C0288,Clathrin-associated vesicle trafficking complex,0.7,LLM
+C0289,CUL4B-DDB1-GRWD1 E3 ubiquitin ligase complex,0.85,LLM
+C0290,P-TEFb-7SK snRNP complex,0.85,LLM
+C0291,Mitochondrial trifunctional protein-associated RNA processing complex,0.6,LLM
+C0292,HEXIM1-MATR3-MSH2 Multifunctional Ribonucleoprotein-DNA Repair Assembly,0.75,LLM
+C0293,USP7-SARNP-SEC24C-CLIC1 multifunctional regulatory assembly,0.6,LLM
+C0294,Microtubule-associated spliceosomal assembly,0.7,LLM
+C0295,aPKC-NUCB1-LRRC47-Selenoprotein F Assembly,0.75,LLM
+C0296,Mitochondrial Translation and RNA Transport Complex,0.85,LLM
+C0297,Mitochondrial Translation and Protein Quality Control Assembly,0.85,LLM
+C0298,XRCC1-TDP1 DNA Single-Strand Break Repair Complex,0.85,LLM
+C0299,RAD23A-H1-1-OGFOD1-UTP23 Multifunctional DNA Repair and Ribosome Biogenesis Assembly,0.65,LLM
+C0300,PTIP-associated histone methyltransferase and DNA repair complex,0.85,LLM
+C0301,VPS33B-VPS11 Endosomal Trafficking Complex,0.85,LLM
+C0302,7SK snRNP complex,0.85,LLM
+C0303,Exosome-associated membrane remodeling complex,0.7,LLM
+C0304,COPI Coatomer Complex,0.9,LLM
+C0305,Mitochondrial Quality Control and Peroxisomal Metabolism Assembly,0.7,LLM
+C0306,CASK-associated chromatin-modifying complex,0.75,LLM
+C0307,G protein beta subunit heterodimer with A2M and MAT2A association,0.4,LLM
+C0308,PPIH-PRPF4 Spliceosomal Subcomplex,0.85,LLM
+C0309,ER-associated glycosylation and proteostasis complex,0.85,LLM
+C0310,RNA Polymerase I-associated complex,0.75,LLM
+C0311,Laminin-521 and RASA2 Regulatory Assembly,0.7,LLM
+C0312,Laminin beta-2 associated chaperone complex,0.7,LLM
+C0313,PP2A-B56α/β-catenin regulatory complex,0.7,LLM
+C0314,RNA Polymerase I-associated Transcription Regulatory Complex,0.75,LLM
+C0315,Prolyl 4-hydroxylase complex with RNA helicase and chromatin-associated subunits,0.6,LLM
+C0316,Prolyl 4-hydroxylase alpha subunit complex,0.8,LLM
+C0317,XPC-DNA Damage Recognition Complex,0.7,LLM
+C0318,EIF4A1-RNH1 Multifunctional Regulatory Assembly,0.7,LLM
+C0319,"Spliceosome-associated complex containing RBMXL1, RNH1, and SART1",0.75,LLM
+C0320,Nuclear Cap-Binding Complex with XPO1 Export Factor,0.85,LLM
+C0321,FLII-OSBP-FIBP-SRGAP2 Regulatory Assembly,0.75,LLM
+C0322,Putative METTL3-associated regulatory complex,0.4,LLM
+C0323,Mitochondrial Apoptosis-Inducing Factor Complex,0.85,LLM
+C0324,Pre-ribosomal 60S Subunit Assembly Complex,0.85,LLM
+C0325,MLL1 (KMT2A)-MeCP2-SWI/SNF chromatin remodeling assembly,0.75,LLM
+C0326,Nuclear Pore-Associated Chromatin Remodeling Assembly,0.75,LLM
+C0327,Nuclear Import and RNA Processing Assembly,0.75,LLM
+C0328,Human tRNA Splicing Ligase Complex,0.85,LLM
+C0329,Mitochondrial Apoptosis-Linked Complex,0.85,LLM
+C0330,"Nucleoplasmic chromatin-associated complex involving H1-1, LRRC47, NUCB1, and SELENOF",0.65,LLM
+C0331,Histone H1-NUCB1-RAD23A DNA Damage Response Assembly,0.75,LLM
+C0332,TOP3B-associated RNA processing complex,0.7,LLM
+C0333,ARL3-RP2-VPS4B Membrane Trafficking Complex,0.7,LLM
+C0334,CLUH-Associated Mitochondrial Trafficking and Retromer-Linked Sorting Complex,0.7,LLM
+C0335,PDCD6-associated calcium-dependent regulatory complex,0.75,LLM
+C0336,Adenosine Deaminase-CBFβ-CRABP2-TSTD1 Assembly,0.6,LLM
+C0337,Apoptosome,0.85,LLM
+C0338,Lysosomal and Metabolic Enzyme-Associated Protein Assembly,0.7,LLM
+C0339,APPL1-VPS26B Endosomal Signaling Complex,0.75,LLM
+C0340,PDCD6IP-RAB5A Endosomal Sorting Complex,0.85,LLM
+C0341,PA28 (Proteasome Activator) Regulatory Complex,0.7,LLM
+C0342,TFIIH transcription factor core complex,0.75,LLM
+C0343,Translation Initiation and Termination Regulatory Assembly,0.7,LLM
+C0344,ALDH1L1-ATXN2-EIF2D-LARP4 RNA regulatory assembly,0.7,LLM
+C0345,Lysosomal Chaperone-Protease Assembly,0.85,LLM
+C0346,SUMO E3 ligase complex involving UBA2 and GLRX3,0.75,LLM
+C0347,Mitochondrial Apoptosis Regulatory Complex,0.75,LLM
+C0348,SEC14-like Phosphatidylinositol Transfer Protein Complex,0.85,LLM
+C0349,Mitochondrial Stress Response Assembly,0.85,LLM
+C0350,BAZ1A-COPB1-H1-0-INTS3 chromatin remodeling and RNA processing assembly,0.75,LLM
+C0351,Condensin II Complex,0.7,LLM
+C0352,AP-2 Adaptor Complex with NUMB and Epsin-1,0.85,LLM
+C0353,Human RNA helicase and RNA-induced silencing complex assembly,0.85,LLM
+C0354,Mitochondrial Fatty Acid Metabolism Regulatory Complex,0.7,LLM
+C0355,METTL3-METTL14 m6A Methyltransferase Complex,0.85,LLM
+C0356,Mitochondrial Metabolic and Antioxidant Enzyme Assembly,0.85,LLM
+C0357,EGFR-DDR1 Signaling Complex,0.75,LLM
+C0358,IGF2R-PLG-PLAU Proteolytic Activation Complex,0.85,LLM
+C0359,Cytoskeletal and Metabolic Enzyme Assembly,0.3,LLM
+C0360,Complement C5-TRIM5 Regulatory Assembly,0.7,LLM
+C0361,CD44-ERK1/2 Signaling Complex,0.85,LLM
+C0362,Cytoplasmic 60S Ribosomal Subunit,0.85,LLM
+C0363,ERAP1-DNAJB1-DNAJC3 Chaperone-Associated Peptidase Complex,0.7,LLM
+C0364,GNPTG-PFKM-TSFM Metabolic and Lysosomal Targeting Assembly,0.65,LLM
+C0365,Proteasome regulatory and autophagy-associated assembly,0.75,LLM
+C0366,SNARE-associated vesicle trafficking complex,0.75,LLM
+C0367,PA28 (11S) Proteasome Activator Complex,0.85,LLM
+C0368,Annexin A11-LTA4H-CYRIB-DMAC2L regulatory complex,0.65,LLM
+C0369,Mitochondrial AAA protease complex with HSPA9 chaperone,0.85,LLM
+C0370,Laminin-521 Heterotrimeric Complex,0.85,LLM
+C0371,N-terminal Acetyltransferase and RNA-binding Regulatory Assembly,0.75,LLM
+C0372,Mitochondrial COA7-Pofut2 Glycosylation-Associated Assembly,0.65,LLM
+C0373,Mitochondrial ammonia detoxification and RNA-binding protein assembly,0.75,LLM
+C0374,Collagen XVII-Coronin-Ribonuclease Inhibitor Assembly,0.6,LLM
+C0375,CRK-Associated Signaling Assembly,0.7,LLM
+C0376,Electron Transfer Flavoprotein Complex,0.85,LLM
+C0377,"ER-associated degradation (ERAD) complex involving OS9, HSP90B1, BSG, and HMGB2",0.75,LLM
+C0378,MON1B-DHX30-GTPBP3-TBRG4 mitochondrial RNA processing complex,0.75,LLM
+C0379,Human Cellular Antioxidant and Metabolic Enzyme Assembly,0.75,LLM
+C0380,"Lysosomal multienzyme complex of Cathepsin A, GALNS, GLB1, and NAGA",0.85,LLM
+C0381,ANGEL2-EEFSEC-ZKSCAN1 RNA Processing Assembly,0.7,LLM
+C0382,Cdk-activating kinase (CAK) core complex,0.7,LLM
+C0383,ATXN3-LIG1 DNA Repair and Chromatin Remodeling Assembly,0.75,LLM
+C0384,PI3K-PLCγ1-SOS1 signaling complex,0.85,LLM
+C0385,HOPS (Homotypic fusion and Protein Sorting) complex,0.85,LLM
+C0386,Mitochondrial Metabolic and Apoptosis Regulatory Assembly,0.75,LLM
+C0387,ACLY-ARFIP2-CTSC-HSD17B4 multifunctional metabolic complex,0.75,LLM
+C0388,Mitochondrial Methylmalonyl-CoA Mutase Assembly with TRIM25 and CC2D1B,0.7,LLM
+C0389,Mitochondrial Protein Quality Control Assembly,0.85,LLM
+C0390,SUGT1-NOSIP-YARS2-Associated Regulatory Assembly,0.65,LLM
+C0391,TAK1-TAB1-FKBP5 Regulatory Assembly,0.75,LLM
+C0392,DNA synthesome core complex,0.85,LLM
+C0393,Mitochondrial Metabolic and Protease Regulatory Assembly,0.7,LLM
+C0394,CAB39L-HIKESHI-ANXA8L1-HIBADH metabolic regulatory assembly,0.65,LLM
+C0395,Beta-arrestin 2-CLIC5-DHPS-UBP1 regulatory assembly,0.65,LLM
+C0396,"Lysosomal multienzyme complex of Cathepsin A, beta-Galactosidase, GALNS, and ABHD11",0.85,LLM
+C0397,USP7-associated chromatin and RNA processing assembly,0.7,LLM
+C0398,SUMO E1 activating complex with ORC3 and MYH10 association,0.7,LLM
+C0399,Mitochondrial proteostasis and aminoacylation assembly,0.7,LLM
+C0400,EIF2 Translation Initiation Complex with HDAC8 and YLPM1,0.75,LLM
+C0401,MCTS1-LARP4 Translation Initiation Complex,0.85,LLM
+C0402,Succinyl-CoA synthetase heterodimer,0.85,LLM
+C0403,BLM-MSH2 DNA Repair Complex,0.85,LLM
+C0404,BRISC deubiquitinase complex,1,LLM
+C0405,Nuclear Envelope-Associated Regulatory Complex,0.75,LLM
+C0406,CDK5-associated chaperone complex,0.7,LLM
+C0407,FAK-Cortactin-AKT1-OGFR signaling complex,0.75,LLM
+C0408,Mitochondrial Ribosome Assembly and Spliceosomal Regulatory Complex,0.65,LLM
+C0409,Spliceosomal C Complex with LLGL1-associated regulatory subunits,0.7,LLM
+C0410,CDC42BPB-NAPA-ITIH2-THNSL1 Associated Regulatory Assembly,0.4,LLM
+C0411,Mitochondrial aminoacyl-tRNA synthetase and protein import-associated assembly,0.6,LLM
+C0412,Nuclear Pore Complex Subassembly Involving NUP107 and CCDC86,0.7,LLM
+C0413,Actin Cytoskeleton Regulatory Complex,0.75,LLM
+C0414,BICD1-CHAMP1-CRELD2-PITHD1 protein assembly,0.4,LLM
+C0415,Mitochondrial Aldehyde Detoxification and Oxidative Stress Response Assembly,0.75,LLM
+C0416,"TRAF2-associated regulatory complex with FYTTD1, IMPACT, and RRP1B",0.6,LLM
+C0417,PICALM-associated endocytic adaptor complex,0.6,LLM
+C0418,MAD1L1-AUH-PA2G4-UQCC1 assembly,0.6,LLM
+C0419,ABCF1-CCNY-NFIA-PDPR regulatory assembly,0.6,LLM
+C0420,Metabolic and Mitochondrial Protein Assembly,0.7,LLM
+C0421,MTERF4-NSUN4 Mitochondrial Ribosome Assembly Complex,0.9,LLM
+C0422,HIKESHI-CAB39L-ANXA8L1-DPCD regulatory assembly,0.65,LLM
+C0423,ERI1-LSM14B mRNA Decay and Processing Complex,0.75,LLM
+C0424,"Integrator subcomplex containing INTS1, INTS7, and INTS10 with LLGL2 association",0.7,LLM
+C0425,METTL3-METTL14-RRM2B RNA Modification Assembly,0.85,LLM
+C0426,PA28gamma (PSME3)-associated regulatory complex,0.7,LLM
+C0427,VPS11-containing Endosomal Trafficking Complex,0.75,LLM
+C0428,ESYT2-ETF1-FYTTD1-PWP2 multifunctional RNA processing assembly,0.75,LLM
+C0429,UBA6-Mediated Ubiquitin Activation Complex,0.7,LLM
+C0430,Extracellular Matrix-Associated Collagen-Metabolism Assembly,0.65,LLM
+C0431,"Mitochondrial Complex Assembly Involving AUH, CFAP20, MAD1L1, and UQCC1",0.65,LLM
+C0432,Mitochondrial Ribosomal Large Subunit Biogenesis Factor Complex,0.85,LLM
+C0433,PSME1/PSME2-Associated Proteasome Regulatory Complex,0.85,LLM
+C0434,GRK2-MAPK3-NAA25-TBCB regulatory assembly,0.65,LLM
+C0435,PCNA-DNA polymerase delta complex,0.9,LLM
+C0436,NuRD chromatin remodeling complex,0.85,LLM
+C0437,Mitochondrial Metabolic and Spindle Checkpoint Assembly,0.65,LLM
+C0438,RPRD1A-CDK5RAP1-C7ORF26 Regulatory Assembly,0.65,LLM
+C0439,mTRAPP II complex,0.85,LLM
+C0440,CCR4-NOT complex subassembly containing CNOT1 and CNOT7,0.8,LLM
+C0441,Ankyrin-G–TOP3B–METTL15 regulatory complex,0.7,LLM
+C0442,Branched-Chain α-Ketoacid Dehydrogenase Complex (BCKDH) with BTF3 and DHX37-associated factors,0.6,LLM
+C0443,HOPS complex,0.9,LLM
+C0444,CLUH-PIK3C2A-SHOC2 signaling assembly,0.6,LLM
+C0445,Ceruloplasmin-CAP1-ACSL4 functional assembly,0.6,LLM
+C0446,ACLY-ARFIP2-IVD Metabolic and Vesicle Trafficking Assembly,0.6,LLM
+C0447,"Metabolic Enzyme Assembly of AASS, ACADS, and PFAS",0.7,LLM
+C0448,ACSF3-ARPC1A-PTPN11 multifunctional assembly,0.4,LLM
+C0449,EEF1D-CCDC9-TLN2 multifunctional cytoskeletal and translation-associated complex,0.6,LLM
+C0450,Protein Phosphatase 4 (PP4) Complex,0.95,LLM
+C0451,RNA Polymerase I Core Complex,0.9,LLM
+C0452,Lysosomal CLN5-LIPA-Associated Protein Complex,0.85,LLM
+C0453,Mitochondrial metabolic and trafficking assembly,0.7,LLM
+C0454,LYPLA1-SEC22B-SH3BGRL membrane trafficking and lipid metabolism complex,0.7,LLM
+C0455,GCAT-GNPDA2-NUP58 Metabolic-Nuclear Pore Interface Complex,0.65,LLM
+C0456,Mitochondrial GatCAB Aminoacyl-tRNA Amidotransferase Complex,1,LLM
+C0457,Mitochondrial Copper Delivery and Hypoxia Response Assembly,0.85,LLM
+C0458,Dynactin complex subunit assembly,0.7,LLM
+C0459,Mitochondrial RNA Silencing and Translation Assembly,0.7,LLM
+C0460,BLVRB-EIPR1-SPRYD4 regulatory complex,0.4,LLM
+C0461,ER-associated carbohydrate metabolism enzyme assembly,0.75,LLM
+C0462,Transferrin-Transferrin Receptor Complex,0.85,LLM
+C0463,Annexin A1-ISOC1-LXN regulatory complex,0.7,LLM
+C0464,TYMS-GABARAPL2-LRRC40 complex,0.4,LLM
+C0465,Translin-Trax-AKAP2 Assembly,0.7,LLM
+C0466,HGF-Met receptor signaling complex,0.7,LLM
+C0467,CD63-STX12-TOMM34 vesicular trafficking assembly,0.7,LLM
+C0468,CMPK1-ECHS1-GSTP1 metabolic enzyme assembly,0.7,LLM
+C0469,Mitochondrial tRNA Maturation Complex,0.85,LLM
+C0470,Mitochondrial Large Ribosomal Subunit (39S),0.85,LLM
+C0471,FIZ1-PDS5A-STRBP regulatory chromatin complex,0.7,LLM
+C0472,Iron Regulatory V-ATPase-Associated Complex,0.65,LLM
+C0473,Spliceosomal B Complex,0.85,LLM
+C0474,hASC-1 complex,0.85,LLM
+C0475,NPLOC4-UFD1L-VCP Segregase Complex,0.85,LLM
+C0476,BICD2-associated ESCRT-III and RAE1 complex,0.7,LLM
+C0477,Mitochondrial tRNA Modification and Stress Response Assembly,0.75,LLM
+C0478,LRRFIP2-METTL17-SRP9 regulatory assembly,0.6,LLM
+C0479,DNA ligase IV-XRCC4 complex,0.9,LLM
+C0480,HDAC3-H1.3-NCOR2 (SMRT) Corepressor Complex,0.9,LLM
+C0481,ARHGDIB-CUTC-PRG4 multifunctional protein assembly,0.3,LLM
+C0482,Mitochondrial DNA replication and regulation complex,0.85,LLM
+C0483,Calcineurin (PPP3CA)-CSK-EHHADH Associated Complex,0.6,LLM
+C0484,XIAP-MAPRE2-CCDC86 regulatory complex,0.7,LLM
+C0485,MTR4-RBM7-ZCCHC8 Nuclear RNA Exosome Targeting Complex,0.85,LLM
+C0486,ARHGEF1-EMG1-GLG1 regulatory assembly,0.7,LLM
+C0487,IL-1 receptor signaling complex with KMT2A-associated chromatin modifier,0.65,LLM
+C0488,BYSL-CDK13-CKAP5 mitotic regulatory complex,0.75,LLM
+C0489,Dynactin complex,0.85,LLM
+C0490,LSM14B-SNX7-TBC1D10A regulatory complex,0.7,LLM
+C0491,Hook3-ESCRT-III associated complex,0.7,LLM
+C0492,Mitochondrial ATP Synthase Assembly Factor Complex,0.85,LLM
+C0493,Transcription Initiation and Mitochondrial Ribosome Assembly Interface,0.65,LLM
+C0494,NRCAM-XPO7 Transport Complex,0.6,LLM
+C0495,SH3KBP1-SOS1-IFT27 signaling complex,0.7,LLM
+C0496,Mitochondrial RNA Processing and Stress Response Assembly,0.75,LLM
+C0497,Mitochondrial Fatty Acid Beta-Oxidation Enzyme Assembly,0.85,LLM
+C0498,FPGT-NDEL1-PCTP functional assembly,0.3,LLM
+C0499,Mitochondrial tRNA Modification and Aminoacylation Complex,0.85,LLM
+C0500,Aldo-keto reductase and purine salvage enzyme complex with mitochondrial cytochrome c oxidase subunit,0.6,LLM
+C0501,"Isocitrate dehydrogenase [NAD], mitochondrial",1,LLM
+C0502,NDUFS1-NDUFS2-Associated Respiratory Complex I Assembly Module,0.85,LLM
+C0503,STRIPAK complex,0.85,LLM
+C0504,Mitochondrial metabolic enzyme assembly,0.7,LLM
+C0505,Gamma-tubulin small complex (γ-TuSC),0.9,LLM
+C0506,Mitochondrial nucleotide metabolism and redox regulation assembly,0.7,LLM
+C0507,UBE2F-PGP Neddylation Regulatory Complex,0.75,LLM
+C0508,EHD2-PRDX4 membrane remodeling and redox regulation complex,0.7,LLM
+C0509,CFDP1-TUBA4A microtubule-associated assembly,0.7,LLM
+C0510,AIP-FARS2 mitochondrial protein assembly,0.7,LLM
+C0511,IPO4-ZC3H15 nuclear import complex,0.85,LLM
+C0512,PPM1F-TXNDC9 regulatory complex,0.6,LLM
+C0513,TNPO2-PDAP1 nuclear import complex,0.85,LLM
+C0514,RNASE4-TAX1BP3 regulatory complex,0.6,LLM
+C0515,Heme-binding protein 2 and maltase-glucoamylase functional association,0.3,LLM
+C0516,ESCRT-III complex,0.7,LLM
+C0517,DNA polymerase delta complex,0.8,LLM
+C0518,ALDH3A1-SORBS3 cytoskeletal-associated complex,0.6,LLM
+C0519,GRB2-MCAT interaction complex,0.4,LLM
+C0520,PNPT1-SND1 RNA Processing Complex,0.75,LLM
+C0521,MAPK14-USO1 regulatory complex,0.6,LLM
+C0522,Ribosome Biogenesis and RNA Processing Complex,0.85,LLM
+C0523,OFD1-PPM1B regulatory complex at the distal centriole,0.7,LLM
+C0524,ATRN-IDH1 functional interaction complex,0.6,LLM
+C0525,Cyclin K-UPP1 functional association,0.4,LLM
+C0526,PPWD1-WDR47 protein assembly,0.6,LLM
+C0527,PDIA5-Supervillin Chaperone-Actin Assembly,0.65,LLM
+C0528,PAK4-MTMR10 regulatory complex,0.7,LLM
+C0529,LDHA-PLBD2 metabolic enzyme complex,0.4,LLM
+C0530,Mitochondrial aminoacyl-tRNA synthetase and acyl-CoA dehydrogenase assembly,0.7,LLM
+C0531,FARP1-TFCP2 regulatory complex,0.7,LLM
+C0532,Cystatin B-PAPOLA regulatory complex,0.6,LLM
+C0533,Arginase 1–Serpin B12 functional assembly,0.6,LLM
+C0534,FXR2-associated 60S Ribosomal Subunit Complex,0.7,LLM
+C0535,POLB-ZNF362 DNA repair-associated complex,0.6,LLM
+C0536,WDR33-DDX24 RNA Processing Complex,0.85,LLM
+C0537,PLXDC2-PTPRF cell adhesion receptor complex,0.85,LLM
+C0538,EHD1-PRKAR1A regulatory complex,0.7,LLM
+C0539,Spliceosome C complex,0.85,LLM
+C0540,Ral GTPase heterodimer,0.85,LLM
+C0541,HMGB2-OS9 chromatin-associated quality control complex,0.7,LLM
+C0542,DNMT1-UGGT2 regulatory complex,0.7,LLM
+C0543,PP2A B56alpha-RCN1 regulatory complex,0.75,LLM
+C0544,AKT2-PREP regulatory complex,0.7,LLM
+C0545,P3H4-SETD7 regulatory complex,0.65,LLM
+C0546,Immunoproteasome Core Complex,0.85,LLM
+C0547,Replication Factor C (RFC) complex,0.6,LLM
+C0548,Mitochondrial Ribosome Assembly Complex,0.85,LLM
+C0549,Nuclear pore complex-associated PPAT module,0.4,LLM
+C0550,Carnitine O-acetyltransferase and Isoamyl Acetate Hydrolase Complex,0.7,LLM
+C0551,Glutamate-cysteine ligase holoenzyme,1,LLM
+C0552,PPP5C-SAMHD1 regulatory complex,0.6,LLM
+C0553,MOB1A-associated Hippo signaling complex,0.7,LLM
+C0554,DNAJB4-METAP1 chaperone-methionine aminopeptidase complex,0.7,LLM
+C0555,NUTF2-PLAA nuclear transport and ubiquitin-associated complex,0.7,LLM
+C0556,EIF4G2-SRPK2 translation regulatory complex,0.75,LLM
+C0557,IFI35-PTCD2 protein assembly,0.6,LLM
+C0558,RUNX1-AMPD2 Regulatory Complex,0.6,LLM
+C0559,Putative ACTR6-MAB21L4 Assembly,0.3,LLM
+C0560,DLG1-PPP1R8 regulatory complex,0.7,LLM
+C0561,THRAP3-UPF2 RNA Surveillance Complex,0.7,LLM
+C0562,Copine 1–PAFAH1B3 regulatory complex,0.6,LLM
+C0563,CDC37-PAK1IP1 kinase chaperone complex,0.7,LLM
+C0564,Mitochondrial alanyl-tRNA synthetase and tubulin folding complex,0.7,LLM
+C0565,Mitochondrial Iron-Sulfur Cluster Assembly Complex,0.85,LLM
+C0566,Mitochondrial Methionine Aminopeptidase 1D-Molybdenum Cofactor Sulfurase Complex,0.7,LLM
+C0567,UBE2R2-C1ORF52 ubiquitin-conjugating complex,0.7,LLM
+C0568,Aprataxin-EFL1 DNA Repair and Ribosome Assembly Complex,0.7,LLM
+C0569,Nuclear Pore Subcomplex involving NUP54 and SNX12,0.6,LLM
+C0570,HDDC2-UBL5 Regulatory Complex,0.7,LLM
+C0571,SMC5-SMC6 complex,1,LLM
+C0572,PPP4C-PPP4R1-ZNF384 regulatory complex,0.7,LLM
+C0573,MYD88-NUDCD2 associated signaling complex,0.4,LLM
+C0574,Mitochondrial Complex I Assembly Factor Complex,0.85,LLM
+C0575,RAB21-TXNDC17 endosomal trafficking and redox regulation complex,0.7,LLM
+C0576,CDK12-PAPOLG transcriptional elongation and mRNA polyadenylation complex,0.75,LLM
+C0577,GTPBP4-RWDD1 ribosome biogenesis complex,0.85,LLM
+C0578,DDX47-TRIOBP RNA helicase-actin cytoskeleton regulatory complex,0.7,LLM
+C0579,CCDC134-OSGEPL1 protein assembly,0.4,LLM
+C0580,ACTR8-ARMT1 chromatin remodeling subcomplex,0.7,LLM
+C0581,ACSS2-PDLIM7 metabolic-scaffold complex,0.7,LLM
+C0582,Nischarin-Pleckstrin Homology Domain Complex,0.7,LLM
+C0583,CAB39-MEMO1 signaling scaffold complex,0.85,LLM
+C0584,UFM1 Conjugation Complex with PPIL1,0.75,LLM
+C0585,P-TEFb complex,0.9,LLM
+C0586,JPT1-PHYKPL heterodimer,0.6,LLM
+C0587,HOGA1-TRADD interaction complex,0.4,LLM
+C0588,SIN3A Corepressor Complex,0.85,LLM
+C0589,TRMT1-XPNPEP1 functional assembly,0.4,LLM
+C0590,AKR1C2-PITPNB functional interaction,0.3,LLM
+C0591,QKI-GLYATL2 regulatory complex,0.6,LLM
+C0592,ARMC10-PLAUR protein assembly,0.4,LLM
+C0593,BCKDK-IGF2BP2 regulatory complex,0.65,LLM
+C0594,m6A methyltransferase complex,0.85,LLM
+C0595,ARPC5L-associated MT1-MMP (MMP14) actin nucleation complex,0.75,LLM
+C0596,LAP3-SIAE enzymatic complex,0.7,LLM
+C0597,Nudix hydrolase-PUDP nucleotide metabolism complex,0.7,LLM
+C0598,Dynamin-1-like (DNM1L) and Testin (TES) interaction complex,0.6,LLM
+C0599,DLG5-PRKCE signaling scaffold complex,0.7,LLM
+C0600,A2ML1-RNPEP protease inhibitor and aminopeptidase assembly,0.7,LLM
+C0601,VAPA-WDR45B membrane trafficking complex,0.75,LLM
+C0602,KEOPS complex,0.9,LLM
+C0603,CD46-RAB12 membrane trafficking complex,0.7,LLM
+C0604,Annexin A3-Linked Aminotransferase Metabolic Assembly,0.6,LLM
+C0605,MMAA-TRIM33 regulatory complex,0.6,LLM
+C0606,Mitochondrial Respiratory Chain Complex I Intermediate Assembly,0.85,LLM
+C0607,AHCY-SERPINB5 functional interaction,0.3,LLM
+C0608,CAP2-NUDT2 regulatory complex,0.6,LLM
+C0609,SEMA3C-SH3GL1 signaling complex,0.7,LLM
+C0610,DIS3L2-NOP9 RNA Processing Complex,0.85,LLM
+C0611,MDC1-p120 Catenin (CTNND1) DNA Damage Response Complex,0.7,LLM
