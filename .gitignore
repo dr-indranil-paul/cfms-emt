@@ -21,3 +21,6 @@ venv/
 03_analysis/
 02_data_sources/
 .venv/
+# Protect heavy local research folders from accidental git add
+01_documents/
+04_manuscripts/
